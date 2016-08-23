@@ -1,0 +1,96 @@
+Qtr,Zip,City,State,Country,Qty,latitude,longitude,name,desc,color,source,precision
+Q1-2016,QLD 4054,KEPERRA,QLD,Australia,2,-27.4171391,152.9497833,"KEPERRA, QLD, QLD 4054, Australia","Keperra, Australia",,Bing Maps,city/town
+,QLD 4700,ROCKHAMPTON,QLD,Australia,1,-23.3742199,150.5036469,"ROCKHAMPTON, QLD, QLD 4700, Australia","Rockhampton, Australia",,Bing Maps,city/town
+,QLD 4101,SOUTH BRISBANE,QLD,Australia,1,-27.4756203,153.0153809,"SOUTH BRISBANE, QLD, QLD 4101, Australia","South Brisbane, Australia",,Bing Maps,Neighborhood
+Q1-2016,L1G 2B9,OSHAWA,,Canada,1,43.9060287,-78.868576,"OSHAWA, L1G 2B9, Canada","L1G 2B9, ON",,Bing Maps,postcode
+Q1-2016,USD 100000,BEIJING,USD,China,1,36.5530853,103.9754333,"BEIJING, USD, USD 100000, China",China,,Bing Maps,country
+Q1-2016,USD 130000,CHANGCHUN CITY,USD,China,2,36.5530853,103.9754333,"CHANGCHUN CITY, USD, USD 130000, China",China,,Bing Maps,country
+Q1-2016,USD 410000,CHANGSHA,USD,China,1,36.5530853,103.9754333,"CHANGSHA, USD, USD 410000, China",China,,Bing Maps,country
+Q1-2016,USD 610000,CHENGDU,USD,China,2,36.5530853,103.9754333,"CHENGDU, USD, USD 610000, China",China,,Bing Maps,country
+Q1-2016,USD 400037,CHONGQING,,China,1,29.5509491,106.5193481,"CHONGQING, USD 400037, China","Chongqing, China",,Bing Maps,city/town
+Q1-2016,USD 253009,DEZHOU,,China,1,37.4424706,116.2857285,"DEZHOU, USD 253009, China","Dezhou, China",,Bing Maps,city/town
+Q1-2016,USD 510000,GUANGZHOU,USD,China,1,36.5530853,103.9754333,"GUANGZHOU, USD, USD 510000, China",China,,Bing Maps,country
+Q1-2016,USD 999077,HONGKONG,USD,China,1,36.5530853,103.9754333,"HONGKONG, USD, USD 999077, China",China,,Bing Maps,country
+Q1-2016,USD 266400,JIAONAN,USD,China,1,36.5530853,103.9754333,"JIAONAN, USD, USD 266400, China",China,,Bing Maps,country
+Q1-2016,USD 333105,SHANGRAO,USD,China,1,36.5530853,103.9754333,"SHANGRAO, USD, USD 333105, China",China,,Bing Maps,country
+Q1-2016,USD 312000,SHAOXING,USD,China,1,36.5530853,103.9754333,"SHAOXING, USD, USD 312000, China",China,,Bing Maps,country
+Q1-2016,USD 215631,SUZHOU,USD,China,1,36.5530853,103.9754333,"SUZHOU, USD, USD 215631, China",China,,Bing Maps,country
+Q1-2016,USD 450000,ZHENGZHOU,USD,China,1,36.5530853,103.9754333,"ZHENGZHOU, USD, USD 450000, China",China,,Bing Maps,country
+Q1-2016,USD 563000,ZUNYI,USD,China,1,36.5530853,103.9754333,"ZUNYI, USD, USD 563000, China",China,,Bing Maps,country
+,USD 100000,BEIJING,USD,China,11,36.5530853,103.9754333,"BEIJING, USD, USD 100000, China",China,,Bing Maps,country
+,RMB 748100,DINGXI,RMB,China,1,36.5530853,103.9754333,"DINGXI, RMB, RMB 748100, China",China,,Bing Maps,country
+,USD 310000,HANGZHOU,USD,China,1,36.5530853,103.9754333,"HANGZHOU, USD, USD 310000, China",China,,Bing Maps,country
+,USD 272400,JINING,USD,China,1,36.5530853,103.9754333,"JINING, USD, USD 272400, China",China,,Bing Maps,country
+,USD 730000,LANZHOU,USD,China,1,36.5530853,103.9754333,"LANZHOU, USD, USD 730000, China",China,,Bing Maps,country
+,USD 445400,LICHUAN,USD,China,1,36.5530853,103.9754333,"LICHUAN, USD, USD 445400, China",China,,Bing Maps,country
+,USD 330000,NANCHANG,USD,China,1,36.5530853,103.9754333,"NANCHANG, USD, USD 330000, China",China,,Bing Maps,country
+,USD 210000,NANJING,USD,China,1,36.5530853,103.9754333,"NANJING, USD, USD 210000, China",China,,Bing Maps,country
+,RMB 351254,PUTIAN,RMB,China,1,36.5530853,103.9754333,"PUTIAN, RMB, RMB 351254, China",China,,Bing Maps,country
+,USD 266000,QINGDAO,USD,China,1,36.5530853,103.9754333,"QINGDAO, USD, USD 266000, China",China,,Bing Maps,country
+,USD 200030,SHANGHAI,USD,China,2,36.5530853,103.9754333,"SHANGHAI, USD, USD 200030, China",China,,Bing Maps,country
+,USD 277500,TENGZHOU,USD,China,1,36.5530853,103.9754333,"TENGZHOU, USD, USD 277500, China",China,,Bing Maps,country
+,USD 255025,ZIBO,USD,China,1,36.5530853,103.9754333,"ZIBO, USD, USD 255025, China",China,,Bing Maps,country
+Q1-2016,00029,VANTAA,,Finland,1,60.2893715,25.0295601,"VANTAA, 00029, Finland","Vantaa, Finland",,Bing Maps,city/town
+Q1-2016,92110,CLICHY,,France,1,48.9040298,2.3060827,"CLICHY, 92110, France","92110, Hauts-de-Seine, France",,Bing Maps,postcode
+,63003,CLERMONT FERRAND,,France,1,45.7812004,3.1368799,"CLERMONT FERRAND, 63003, France","Clermont-Ferrand, Puy-de-Dôme, France",,Bing Maps,city/town
+,13353,BERLIN,,Germany,1,52.5409698,13.3493223,"BERLIN, 13353, Germany","13353, BE, Germany",,Bing Maps,postcode
+,71201,HRAKLEIO,,Greece,1,35.3353691,25.1309605,"HRAKLEIO, 71201, Greece","712 01, Greece",,Bing Maps,postcode
+,Veszprem 8200,VESZPREM,,Hungary,1,47.1208496,17.9503708,"VESZPREM, Veszprem 8200, Hungary","Veszprém, Hungary",,Bing Maps,city/town
+Q1-2016,Chennai 600100,CHENNAI,TAMIL NADU,India,1,13.0503302,80.188591,"CHENNAI, TAMIL NADU, Chennai 600100, India","Chennai, India",,Bing Maps,city/town
+Q1-2016,Hyderabad 500035,HYDERABAD,ANDHRA PRADESH,India,1,17.4114094,78.4847794,"HYDERABAD, ANDHRA PRADESH, Hyderabad 500035, India","Hyderabad, India",,Bing Maps,city/town
+Q1-2016,Jabalpur 482003,JABALPUR,MADHYA PRADESH,India,1,23.09589,80.0495834,"JABALPUR, MADHYA PRADESH, Jabalpur 482003, India","Jabalpur, India",,Bing Maps,city/town
+Q1-2016,Surat 395002,SURAT,GUJARAT,India,1,21.1849899,72.8358994,"SURAT, GUJARAT, Surat 395002, India","Surat, India",,Bing Maps,city/town
+Q1-2016,Trivandrum 695607,TRIVANDRUM,Kerala,India,1,8.5051098,76.9514084,"TRIVANDRUM, Kerala, Trivandrum 695607, India","Trivandrum, India",,Bing Maps,city/town
+,Ernakulam 683572,ERNAKULAM,Kerala,India,1,9.9692497,76.2889786,"ERNAKULAM, Kerala, Ernakulam 683572, India","Ernakulam, India",,Bing Maps,city/town
+,Greater Noida 201306,GREATER NOIDA,UTTAR PRADESH,India,1,28.4872093,77.4953384,"GREATER NOIDA, UTTAR PRADESH, Greater Noida 201306, India","Greater Noida, India",,Bing Maps,city/town
+,Hyderabad 500032,HYDERABAD,Andhra Pradesh,India,2,17.4114094,78.4847794,"HYDERABAD, Andhra Pradesh, Hyderabad 500032, India","Hyderabad, India",,Bing Maps,city/town
+,Indore 452001,INDORE,Madhya Pradesh,India,1,22.6882191,76.0266113,"INDORE, Madhya Pradesh, Indore 452001, India","Indore, India",,Bing Maps,city/town
+,Mumbai 400062,MUMBAI,Maharashtra,India,1,18.93013,72.8300934,"MUMBAI, Maharashtra, Mumbai 400062, India","Mumbai, India",,Bing Maps,city/town
+,Thanjavur 613001,THANJAVUR,Tamil Nadu,India,1,10.7207098,79.1390533,"THANJAVUR, Tamil Nadu, Thanjavur 613001, India","Thanjavur, India",,Bing Maps,city/town
+Q1-2016,Bekasi 17144,BEKASI,,Indonesia,1,-6.2255058,106.9730682,"BEKASI, Bekasi 17144, Indonesia","Bekasi, Indonesia",,Bing Maps,city/town
+Q1-2016,Jakarta 12980,JAKARTA,,Indonesia,1,-6.1714902,106.8275223,"JAKARTA, Jakarta 12980, Indonesia","Jakarta, Indonesia",,Bing Maps,city/town
+,Surabaya 60252,Surabaya,,Indonesia,3,-7.2432561,112.7413788,"Surabaya, Surabaya 60252, Indonesia","Surabaya, Indonesia",,Bing Maps,city/town
+Q1-2016,amakusashi 8630013,AMAKUSASHI,,Japan,1,,,"AMAKUSASHI, amakusashi 8630013, Japan",-,,Bing Maps,
+Q1-2016,Hiyuugashi 8830021,HIYUUGASHI,,Japan,1,,,"HIYUUGASHI, Hiyuugashi 8830021, Japan",-,,Bing Maps,
+Q1-2016,Itabashiku 1750083,ITABASHIKU,,Japan,1,,,"ITABASHIKU, Itabashiku 1750083, Japan",-,,Bing Maps,
+Q1-2016,Kitaaidugunkitaaidum 9696186,KITAAIDUGUNKITAAIDUMURA,,Japan,1,,,"KITAAIDUGUNKITAAIDUMURA, Kitaaidugunkitaaidum 9696186, Japan",-,,Bing Maps,
+Q1-2016,Kyoutoshinakagyouk 6048845,KYOUTOSHINAKAGYOUKU,,Japan,1,,,"KYOUTOSHINAKAGYOUKU, Kyoutoshinakagyouk 6048845, Japan",-,,Bing Maps,
+Q1-2016,Matsuyamashi 7900802,MATSUYAMASHI,,Japan,1,,,"MATSUYAMASHI, Matsuyamashi 7900802, Japan",-,,Bing Maps,
+Q1-2016,Oosakashi 5330022,OOSAKASHI,,Japan,1,,,"OOSAKASHI, Oosakashi 5330022, Japan",-,,Bing Maps,
+Q1-2016,Sakadoshi 3500262,SAKADOSHI,,Japan,1,,,"SAKADOSHI, Sakadoshi 3500262, Japan",-,,Bing Maps,
+Q1-2016,Takamatsushi 7600065,TAKAMATSUSHI,,Japan,1,,,"TAKAMATSUSHI, Takamatsushi 7600065, Japan",-,,Bing Maps,
+,Asahikawashi 0788244,ASAHIKAWASHI,,Japan,2,,,"ASAHIKAWASHI, Asahikawashi 0788244, Japan",-,,Bing Maps,
+,Chiyodaku 1020074,CHIYODAKU,,Japan,1,,,"CHIYODAKU, Chiyodaku 1020074, Japan",-,,Bing Maps,
+,Hachiouzishi 1920903,HACHIOUZISHI,,Japan,1,,,"HACHIOUZISHI, Hachiouzishi 1920903, Japan",-,,Bing Maps,
+,Hamamatsushi 4308558,HAMAMATSUSHI,,Japan,1,,,"HAMAMATSUSHI, Hamamatsushi 4308558, Japan",-,,Bing Maps,
+,Higashitsugarugunhi 0393321,HIGASHITSUGARUGUNHIRANAIMACHI,,Japan,1,,,"HIGASHITSUGARUGUNHIRANAIMACHI, Higashitsugarugunhi 0393321, Japan",-,,Bing Maps,
+,Hirosakishi 368045,HIROSAKISHI,,Japan,1,,,"HIROSAKISHI, Hirosakishi 368045, Japan",-,,Bing Maps,
+,Hiroshimashiminamiku 7340004,HIROSHIMASHIMINAMIKU,,Japan,1,,,"HIROSHIMASHIMINAMIKU, Hiroshimashiminamiku 7340004, Japan",-,,Bing Maps,
+,Huchiyuushi 7260002,HUCHIYUUSHI,,Japan,1,,,"HUCHIYUUSHI, Huchiyuushi 7260002, Japan",-,,Bing Maps,
+,Huzisawashi 2510042,HUZISAWASHI,,Japan,1,,,"HUZISAWASHI, Huzisawashi 2510042, Japan",-,,Bing Maps,
+,Ichikawashi 2720021,ICHIKAWASHI,,Japan,1,,,"ICHIKAWASHI, Ichikawashi 2720021, Japan",-,,Bing Maps,
+,Ichinosekishi 293405,ICHINOSEKISHI,,Japan,1,,,"ICHINOSEKISHI, Ichinosekishi 293405, Japan",-,,Bing Maps,
+,Iwamizawashi 0680044,IWAMIZAWASHI,,Japan,1,,,"IWAMIZAWASHI, Iwamizawashi 0680044, Japan",-,,Bing Maps,
+,Kirishimashi 8994352,KIRISHIMASHI,,Japan,1,,,"KIRISHIMASHI, Kirishimashi 8994352, Japan",-,,Bing Maps,
+,Koutouku 1358550,KOUTOUKU,,Japan,1,,,"KOUTOUKU, Koutouku 1358550, Japan",-,,Bing Maps,
+,Kumamotoshi 8610136,KUMAMOTOSHI,,Japan,1,,,"KUMAMOTOSHI, Kumamotoshi 8610136, Japan",-,,Bing Maps,
+,Kumamotoshi 8600872,KUMAMOTOSHI,,Japan,1,,,"KUMAMOTOSHI, Kumamotoshi 8600872, Japan",-,,Bing Maps,
+,Matsumotoshi 3908505,MATSUMOTOSHI,,Japan,1,,,"MATSUMOTOSHI, Matsumotoshi 3908505, Japan",-,,Bing Maps,
+,Minamiaidugun 9670006,MINAMIAIDUGUN,,Japan,1,,,"MINAMIAIDUGUN, Minamiaidugun 9670006, Japan",-,,Bing Maps,
+,Sabaeshi 9160025,SABAESHI,,Japan,1,,,"SABAESHI, Sabaeshi 9160025, Japan",-,,Bing Maps,
+,Aomori 391517,SANNOHEGUNGONOHEMACHI,Aomori,Japan,1,,,"SANNOHEGUNGONOHEMACHI, Aomori, Aomori 391517, Japan",-,,Bing Maps,
+,Takamatsushi 7618076,TAKAMATSUSHI,,Japan,1,,,"TAKAMATSUSHI, Takamatsushi 7618076, Japan",-,,Bing Maps,
+,Takasakishi 3700001,TAKASAKISHI,,Japan,1,,,"TAKASAKISHI, Takasakishi 3700001, Japan",-,,Bing Maps,
+,Touganeshi 2838650,TOUGANESHI,,Japan,1,,,"TOUGANESHI, Touganeshi 2838650, Japan",-,,Bing Maps,
+,Tsushi 5140114,TSUSHI,,Japan,1,,,"TSUSHI, Tsushi 5140114, Japan",-,,Bing Maps,
+Q1-2016,Gwangju 503-715,GWANGJU,,"Korea, Republic of",1,,,"GWANGJU, Gwangju 503-715, Korea, Republic of",-,,Bing Maps,
+Q1-2016,Luxembourg 2763,LUXEMBOURG,,Luxembourg,1,49.5998993,6.1177201,"LUXEMBOURG, Luxembourg 2763, Luxembourg","Luxembourg, Luxembourg",,Bing Maps,city/town
+,Lublin 20 954,LUBLIN,,Poland,1,,,"LUBLIN, Lublin 20 954, Poland",-,,Bing Maps,
+,Warszawa 01 138,WARSZAWA,,Poland,1,,,"WARSZAWA, Warszawa 01 138, Poland",-,,Bing Maps,
+Q1-2016,Samutprakarn 10270,Samutprakarn,,Thailand,2,13.6162004,100.6106567,"Samutprakarn, Samutprakarn 10270, Thailand","Samut Prakan, Thailand",,Bing Maps,city/town
+,Bangkok 10250,BANGKOK,,Thailand,1,13.7533503,100.5048294,"BANGKOK, Bangkok 10250, Thailand","Bangkok, Thailand",,Bing Maps,city/town
+,Bangplee Samuprakarn 10540,Bangplee Samutprakarn,,Thailand,1,14.4845819,100.8519135,"Bangplee Samutprakarn, Bangplee Samuprakarn 10540, Thailand",Thailand,,Bing Maps,country
+Q1-2016,Ankara 06xxx,ANKARA,CENTRAL ANATOLIA,Turkey,1,,,"ANKARA, CENTRAL ANATOLIA, Ankara 06xxx, Turkey",-,,Bing Maps,
+Q1-2016,Corum 19000,CORUM,,Turkey,1,40.5500984,34.9548187,"CORUM, Corum 19000, Turkey","Çorum, Turkey",,Bing Maps,city/town
+,SW17 0QT,TOOTING,,United Kingdom,1,51.4267387,-0.1757578,"TOOTING, SW17 0QT, United Kingdom","SW17 0QT, London, London, United Kingdom",,Bing Maps,postcode
+,700000,HO CHI MINH CITY,,Vietnam,1,10.7782297,106.70327,"HO CHI MINH CITY, 700000, Vietnam","Ho Chi Minh City, Vietnam",,Bing Maps,city/town
