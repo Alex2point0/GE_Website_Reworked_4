@@ -1,0 +1,6971 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Keperra",
+        "GE_State": "Australia",
+        "GE_CityState": "Keperra, Australia",
+        "Zip": 4054,
+        "GE_Count": 2,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9497833,
+          -27.4171391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Rockhampton",
+        "GE_State": "Australia",
+        "GE_CityState": "Rockhampton, Australia",
+        "Zip": 4700,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5036469,
+          -23.3742199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "South Brisbane",
+        "GE_State": "Australia",
+        "GE_CityState": "South Brisbane, Australia",
+        "Zip": 4101,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0153809,
+          -27.4756203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Oshawa",
+        "GE_State": "Canada",
+        "GE_CityState": "Oshawa, Canada",
+        "Zip": "L1G 2B9",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8237991,
+          43.9057007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Changchun City",
+        "GE_State": "China",
+        "GE_CityState": "Changchun City, China",
+        "Zip": 130000,
+        "GE_Count": 2,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.3036804,
+          43.8841515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Changsha",
+        "GE_State": "China",
+        "GE_CityState": "Changsha, China",
+        "Zip": 410000,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.9726791,
+          28.1961498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Chengdu",
+        "GE_State": "China",
+        "GE_CityState": "Chengdu, China",
+        "Zip": 610000,
+        "GE_Count": 2,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9469986,
+          30.5785007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Chongqing",
+        "GE_State": "China",
+        "GE_CityState": "Chongqing, China",
+        "Zip": 400037,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.5193481,
+          29.5509491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Dezhou",
+        "GE_State": "China",
+        "GE_CityState": "Dezhou, China",
+        "Zip": 253009,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2857285,
+          37.4424706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Guangzhou",
+        "GE_State": "China",
+        "GE_CityState": "Guangzhou, China",
+        "Zip": 510000,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2552338,
+          23.1133709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hongkong",
+        "GE_State": "China",
+        "GE_CityState": "Hongkong, China",
+        "Zip": 999077,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1869659,
+          22.3361568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jiaonan",
+        "GE_State": "China",
+        "GE_CityState": "Jiaonan, China",
+        "Zip": 266400,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.979332,
+          35.87714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Shangrao",
+        "GE_State": "China",
+        "GE_CityState": "Shangrao, China",
+        "Zip": 333105,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.9561539,
+          28.4514275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Shaoxing",
+        "GE_State": "China",
+        "GE_CityState": "Shaoxing, China",
+        "Zip": 312000,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5763321,
+          29.9945698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Suzhou",
+        "GE_State": "China",
+        "GE_CityState": "Suzhou, China",
+        "Zip": 215631,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6131973,
+          31.3092518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Zhengzhou",
+        "GE_State": "China",
+        "GE_CityState": "Zhengzhou, China",
+        "Zip": 450000,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.6594086,
+          34.7640305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Zunyi",
+        "GE_State": "China",
+        "GE_CityState": "Zunyi, China",
+        "Zip": 563000,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9104767,
+          27.6983795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Beijing",
+        "GE_State": "China",
+        "GE_CityState": "Beijing, China",
+        "Zip": 100000,
+        "GE_Count": 11,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3876495,
+          39.9065704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Dingxi",
+        "GE_State": "China",
+        "GE_CityState": "Dingxi, China",
+        "Zip": 748100,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3860016,
+          35.0371017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hangzhou",
+        "GE_State": "China",
+        "GE_CityState": "Hangzhou, China",
+        "Zip": 310000,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.1650772,
+          30.2526245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jining",
+        "GE_State": "China",
+        "GE_CityState": "Jining, China",
+        "Zip": 272400,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.5893707,
+          35.4040108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lanzhou",
+        "GE_State": "China",
+        "GE_CityState": "Lanzhou, China",
+        "Zip": 730000,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7502136,
+          36.0699615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lichuan",
+        "GE_State": "China",
+        "GE_CityState": "Lichuan, China",
+        "Zip": 445400,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.9303207,
+          30.3020935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Nanchang",
+        "GE_State": "China",
+        "GE_CityState": "Nanchang, China",
+        "Zip": 330000,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8953094,
+          28.68507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Nanjing",
+        "GE_State": "China",
+        "GE_CityState": "Nanjing, China",
+        "Zip": 210000,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7659836,
+          32.0497818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Putian",
+        "GE_State": "China",
+        "GE_CityState": "Putian, China",
+        "Zip": 351254,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.0219803,
+          25.4506302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Qingdao",
+        "GE_State": "China",
+        "GE_CityState": "Qingdao, China",
+        "Zip": 266000,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.35569,
+          36.1104889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Shanghai",
+        "GE_State": "China",
+        "GE_CityState": "Shanghai, China",
+        "Zip": 200030,
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5161362,
+          31.2241459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Tengzhou",
+        "GE_State": "China",
+        "GE_CityState": "Tengzhou, China",
+        "Zip": 277500,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.1615524,
+          35.0753784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Zibo",
+        "GE_State": "China",
+        "GE_CityState": "Zibo, China",
+        "Zip": 255025,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.0453491,
+          36.8028908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Vantaa",
+        "GE_State": "Finland",
+        "GE_CityState": "Vantaa, Finland",
+        "Zip": "00029",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.0295601,
+          60.2893715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Clichy",
+        "GE_State": "France",
+        "GE_CityState": "Clichy, France",
+        "Zip": 92110,
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5545299,
+          48.9045982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Clermont Ferrand",
+        "GE_State": "France",
+        "GE_CityState": "Clermont Ferrand, France",
+        "Zip": 63003,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1368799,
+          45.7812004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Berlin",
+        "GE_State": "Germany",
+        "GE_CityState": "Berlin, Germany",
+        "Zip": 13353,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4023285,
+          52.5014076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hrakleio",
+        "GE_State": "Greece",
+        "GE_CityState": "Hrakleio, Greece",
+        "Zip": 71201,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.1240997,
+          35.3292999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Veszprem",
+        "GE_State": "Hungary",
+        "GE_CityState": "Veszprem, Hungary",
+        "Zip": "Veszprem 8200",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9503708,
+          47.1208496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Chennai",
+        "GE_State": "India",
+        "GE_CityState": "Chennai, India",
+        "Zip": "Chennai 600100",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.188591,
+          13.0503302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hyderabad",
+        "GE_State": "India",
+        "GE_CityState": "Hyderabad, India",
+        "Zip": "Hyderabad 500035",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4847794,
+          17.4114094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jabalpur",
+        "GE_State": "India",
+        "GE_CityState": "Jabalpur, India",
+        "Zip": "Jabalpur 482003",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0495834,
+          23.09589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Surat",
+        "GE_State": "India",
+        "GE_CityState": "Surat, India",
+        "Zip": "Surat 395002",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8358994,
+          21.1849899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Trivandrum",
+        "GE_State": "India",
+        "GE_CityState": "Trivandrum, India",
+        "Zip": "Trivandrum 695607",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9514084,
+          8.5051098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ernakulam",
+        "GE_State": "India",
+        "GE_CityState": "Ernakulam, India",
+        "Zip": "Ernakulam 683572",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2889786,
+          9.9692497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Greater Noida",
+        "GE_State": "India",
+        "GE_CityState": "Greater Noida, India",
+        "Zip": "Greater Noida 201306",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4953384,
+          28.4872093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hyderabad",
+        "GE_State": "India",
+        "GE_CityState": "Hyderabad, India",
+        "Zip": "Hyderabad 500032",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4847794,
+          17.4114094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Indore",
+        "GE_State": "India",
+        "GE_CityState": "Indore, India",
+        "Zip": "Indore 452001",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0266113,
+          22.6882191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mumbai",
+        "GE_State": "India",
+        "GE_CityState": "Mumbai, India",
+        "Zip": "Mumbai 400062",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8300934,
+          18.93013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Thanjavur",
+        "GE_State": "India",
+        "GE_CityState": "Thanjavur, India",
+        "Zip": "Thanjavur 613001",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1390533,
+          10.7207098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Bekasi",
+        "GE_State": "Indonesia",
+        "GE_CityState": "Bekasi, Indonesia",
+        "Zip": "Bekasi 17144",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.9730682,
+          -6.2255058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jakarta",
+        "GE_State": "Indonesia",
+        "GE_CityState": "Jakarta, Indonesia",
+        "Zip": "Jakarta 12980",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8275223,
+          -6.1714902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Surabaya",
+        "GE_State": "Indonesia",
+        "GE_CityState": "Surabaya, Indonesia",
+        "Zip": "Surabaya 60252",
+        "GE_Count": 3,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7413788,
+          -7.2432561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Amakusa ",
+        "GE_State": "Japan",
+        "GE_CityState": "Amakusa , Japan",
+        "Zip": "amakusashi 8630013",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.1030121,
+          32.3667679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hiyuuga ",
+        "GE_State": "Japan",
+        "GE_CityState": "Hiyuuga , Japan",
+        "Zip": "Hiyuugashi 8830021",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.6552124,
+          32.4284096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Itabashi",
+        "GE_State": "Japan",
+        "GE_CityState": "Itabashi, Japan",
+        "Zip": "Itabashiku 1750083",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6712494,
+          35.7686501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Izumi",
+        "GE_State": "Japan",
+        "GE_CityState": "Izumi, Japan",
+        "Zip": "Kitaaidugunkitaaidum 9696186",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4254761,
+          34.4785652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kyoto",
+        "GE_State": "Japan",
+        "GE_CityState": "Kyoto, Japan",
+        "Zip": "Kyoutoshinakagyouk 6048845",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4155884,
+          35.3231506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Matsuyama",
+        "GE_State": "Japan",
+        "GE_CityState": "Matsuyama, Japan",
+        "Zip": "Matsuyamashi 7900802",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.7719116,
+          33.8381042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Osaka",
+        "GE_State": "Japan",
+        "GE_CityState": "Osaka, Japan",
+        "Zip": "Oosakashi 5330022",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5129089,
+          34.6775208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sakado",
+        "GE_State": "Japan",
+        "GE_CityState": "Sakado, Japan",
+        "Zip": "Sakadoshi 3500262",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3890076,
+          35.9569016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Takamatsu",
+        "GE_State": "Japan",
+        "GE_CityState": "Takamatsu, Japan",
+        "Zip": "Takamatsushi 7600065",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.047699,
+          34.3355217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Asahikawa",
+        "GE_State": "Japan",
+        "GE_CityState": "Asahikawa, Japan",
+        "Zip": "Asahikawashi 0788244",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.3688202,
+          43.7711792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Chiyoda",
+        "GE_State": "Japan",
+        "GE_CityState": "Chiyoda, Japan",
+        "Zip": "Chiyodaku 1020074",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7486572,
+          35.6422997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hachioji",
+        "GE_State": "Japan",
+        "GE_CityState": "Hachioji, Japan",
+        "Zip": "Hachiouzishi 1920903",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.3341675,
+          35.6610489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hamamatsu",
+        "GE_State": "Japan",
+        "GE_CityState": "Hamamatsu, Japan",
+        "Zip": "Hamamatsushi 4308558",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.7301025,
+          34.7194328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hiranai",
+        "GE_State": "Japan",
+        "GE_CityState": "Hiranai, Japan",
+        "Zip": "Higashitsugarugunhi 0393321",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.9639282,
+          40.9166794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hirosaki",
+        "GE_State": "Japan",
+        "GE_CityState": "Hirosaki, Japan",
+        "Zip": 368045,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4764862,
+          40.5979729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hiroshimashiminamiku",
+        "GE_State": "Japan",
+        "GE_CityState": "Hiroshimashiminamiku, Japan",
+        "Zip": 7340004,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0772705,
+          36.2816467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fuchu",
+        "GE_State": "Japan",
+        "GE_CityState": "Fuchu, Japan",
+        "Zip": 7260002,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4833374,
+          35.6670265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fujisawa",
+        "GE_State": "Japan",
+        "GE_CityState": "Fujisawa, Japan",
+        "Zip": 2510042,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.4935455,
+          35.3401299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ichikawa",
+        "GE_State": "Japan",
+        "GE_CityState": "Ichikawa, Japan",
+        "Zip": 2720021,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9333954,
+          35.7195625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ichinoseki",
+        "GE_State": "Japan",
+        "GE_CityState": "Ichinoseki, Japan",
+        "Zip": 293405,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.1363678,
+          38.9240646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Iwamizawa",
+        "GE_State": "Japan",
+        "GE_CityState": "Iwamizawa, Japan",
+        "Zip": 680044,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.7635803,
+          43.1982765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kirishima",
+        "GE_State": "Japan",
+        "GE_CityState": "Kirishima, Japan",
+        "Zip": 8994352,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.8300018,
+          31.8199997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Koto",
+        "GE_State": "Japan",
+        "GE_CityState": "Koto, Japan",
+        "Zip": "Koutouku 1358550",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.8200989,
+          35.6677094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kumamoto",
+        "GE_State": "Japan",
+        "GE_CityState": "Kumamoto, Japan",
+        "Zip": "Kumamotoshi 8610136",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.7148895,
+          32.788517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Matsumoto",
+        "GE_State": "Japan",
+        "GE_CityState": "Matsumoto, Japan",
+        "Zip": "Matsumotoshi 3908505",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          137.9669647,
+          36.2324486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Minamiaizu-Gun",
+        "GE_State": "Japan",
+        "GE_CityState": "Minamiaizu-Gun, Japan",
+        "Zip": "Minamiaidugun 9670006",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.5160065,
+          37.1857986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sabae",
+        "GE_State": "Japan",
+        "GE_CityState": "Sabae, Japan",
+        "Zip": "Sabaeshi 9160025",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.1925354,
+          35.9500008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Gonohe",
+        "GE_State": "Japan",
+        "GE_CityState": "Gonohe, Japan",
+        "Zip": "Aomori 391517",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2707672,
+          40.5654182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Takamatsu",
+        "GE_State": "Japan",
+        "GE_CityState": "Takamatsu, Japan",
+        "Zip": "Takamatsushi 7618076",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.047699,
+          34.3355217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Takasaki",
+        "GE_State": "Japan",
+        "GE_CityState": "Takasaki, Japan",
+        "Zip": "Takasakishi 3700001",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0143585,
+          36.3262215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Togane ",
+        "GE_State": "Japan",
+        "GE_CityState": "Togane , Japan",
+        "Zip": "Touganeshi 2838650",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.3670044,
+          35.5499992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Tsu",
+        "GE_State": "Japan",
+        "GE_CityState": "Tsu, Japan",
+        "Zip": "Tsushi 5140114",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.5168304,
+          34.7191086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Gwangju",
+        "GE_State": "Korea, Republic of",
+        "GE_CityState": "Gwangju, Korea, Republic of",
+        "Zip": "Gwangju 503-715",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9051514,
+          35.1529388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Luxembourg",
+        "GE_State": "Luxembourg",
+        "GE_CityState": "Luxembourg, Luxembourg",
+        "Zip": "Luxembourg 2763",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1177201,
+          49.5998993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lublin",
+        "GE_State": "Poland",
+        "GE_CityState": "Lublin, Poland",
+        "Zip": "Lublin 20 954",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5515995,
+          51.2533989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Warsaw",
+        "GE_State": "Poland",
+        "GE_CityState": "Warsaw, Poland",
+        "Zip": "Warszawa 01 138",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0062504,
+          52.2287483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Samutprakarn",
+        "GE_State": "Thailand",
+        "GE_CityState": "Samutprakarn, Thailand",
+        "Zip": "Samutprakarn 10270",
+        "GE_Count": 2,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7088013,
+          13.5959339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Bangkok",
+        "GE_State": "Thailand",
+        "GE_CityState": "Bangkok, Thailand",
+        "Zip": "Bangkok 10250",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5048294,
+          13.7533503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Samutprakarn",
+        "GE_State": "Thailand",
+        "GE_CityState": "Samutprakarn, Thailand",
+        "Zip": "Bangplee Samuprakarn 10540",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.7088013,
+          13.5959339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ankara",
+        "GE_State": "Turkey",
+        "GE_CityState": "Ankara, Turkey",
+        "Zip": "Ankara 06xxx",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8605003,
+          39.9429016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Corum",
+        "GE_State": "Turkey",
+        "GE_CityState": "Corum, Turkey",
+        "Zip": "Corum 19000",
+        "GE_Count": 1,
+        "Qtr": "Q1-2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9548187,
+          40.5500984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Tooting",
+        "GE_State": "United Kingdom",
+        "GE_CityState": "Tooting, United Kingdom",
+        "Zip": "SW17 0QT",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1657,
+          51.4302406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ho Chi Minh City",
+        "GE_State": "Vietnam",
+        "GE_CityState": "Ho Chi Minh City, Vietnam",
+        "Zip": 700000,
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70327,
+          10.7782297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Adrian",
+        "GE_State": "MI",
+        "GE_CityState": "Adrian, MI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0362473,
+          41.8972511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Albany",
+        "GE_State": "NY",
+        "GE_CityState": "Albany, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7552109,
+          42.6515503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Alexandria",
+        "GE_State": "LA",
+        "GE_CityState": "Alexandria, LA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4456787,
+          31.3126602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Algona",
+        "GE_State": "IA",
+        "GE_CityState": "Algona, IA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2274933,
+          43.0688705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Alice",
+        "GE_State": "TX",
+        "GE_CityState": "Alice, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.065712,
+          27.7505798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Altus",
+        "GE_State": "OK",
+        "GE_CityState": "Altus, OK",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3332596,
+          34.6378288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Amsterdam",
+        "GE_State": "NY",
+        "GE_CityState": "Amsterdam, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1922226,
+          42.9670105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Andalusia",
+        "GE_State": "AL",
+        "GE_CityState": "Andalusia, AL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4954224,
+          31.3195896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Anderson",
+        "GE_State": "IN",
+        "GE_CityState": "Anderson, IN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.678688,
+          40.1021614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Anderson",
+        "GE_State": "SC",
+        "GE_CityState": "Anderson, SC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6495819,
+          34.5004387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Armonk",
+        "GE_State": "NY",
+        "GE_CityState": "Armonk, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7083817,
+          41.1194115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Arvada",
+        "GE_State": "CO",
+        "GE_CityState": "Arvada, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0878372,
+          39.8020287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Asheville",
+        "GE_State": "NC",
+        "GE_CityState": "Asheville, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5531387,
+          35.5984612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Augusta",
+        "GE_State": "GA",
+        "GE_CityState": "Augusta, GA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9753113,
+          33.4790916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Austin",
+        "GE_State": "TX",
+        "GE_CityState": "Austin, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7429886,
+          30.2675896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Aventura",
+        "GE_State": "FL",
+        "GE_CityState": "Aventura, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1446381,
+          25.9686108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Avon",
+        "GE_State": "CT",
+        "GE_CityState": "Avon, CT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8296509,
+          41.8108788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Baton Rouge",
+        "GE_State": "LA",
+        "GE_CityState": "Baton Rouge, LA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1869888,
+          30.4433403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Beaumont",
+        "GE_State": "TX",
+        "GE_CityState": "Beaumont, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1015778,
+          30.0861492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Beaver",
+        "GE_State": "PA",
+        "GE_CityState": "Beaver, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3024368,
+          40.6962204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Beeville",
+        "GE_State": "TX",
+        "GE_CityState": "Beeville, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7493591,
+          28.4020405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Belleville",
+        "GE_State": "NJ",
+        "GE_CityState": "Belleville, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1493988,
+          40.7951508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Benton",
+        "GE_State": "KY",
+        "GE_CityState": "Benton, KY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3507614,
+          36.8575096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Bessemer",
+        "GE_State": "AL",
+        "GE_CityState": "Bessemer, AL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9544067,
+          33.4015388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Beverly",
+        "GE_State": "MA",
+        "GE_CityState": "Beverly, MA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.8789825,
+          42.5477409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Birmingham",
+        "GE_State": "AL",
+        "GE_CityState": "Birmingham, AL",
+        "Zip": "",
+        "GE_Count": 4,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8117599,
+          33.5206795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Bloomfield",
+        "GE_State": "IA",
+        "GE_CityState": "Bloomfield, IA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4136505,
+          40.7501297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Boardman",
+        "GE_State": "OH",
+        "GE_CityState": "Boardman, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6597824,
+          41.0243607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Boston",
+        "GE_State": "MA",
+        "GE_CityState": "Boston, MA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0567398,
+          42.3586617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Bourbonnais",
+        "GE_State": "IL",
+        "GE_CityState": "Bourbonnais, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.877861,
+          41.1542587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Bowling Green",
+        "GE_State": "KY",
+        "GE_CityState": "Bowling Green, KY",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4455795,
+          36.9946213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Brazil",
+        "GE_State": "IN",
+        "GE_CityState": "Brazil, IN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1186981,
+          39.5251694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Brookville",
+        "GE_State": "PA",
+        "GE_CityState": "Brookville, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0801773,
+          41.1604996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Broomfield",
+        "GE_State": "CO",
+        "GE_CityState": "Broomfield, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0705795,
+          39.9208603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Bryan",
+        "GE_State": "TX",
+        "GE_CityState": "Bryan, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3704224,
+          30.6709805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Buffalo",
+        "GE_State": "NY",
+        "GE_CityState": "Buffalo, NY",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8784637,
+          42.8854408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Cambridge",
+        "GE_State": "OH",
+        "GE_CityState": "Cambridge, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5901108,
+          40.0247803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Camp Lejeune",
+        "GE_State": "NC",
+        "GE_CityState": "Camp Lejeune, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3440933,
+          34.7257004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Carrollton",
+        "GE_State": "TX",
+        "GE_CityState": "Carrollton, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9005737,
+          32.987999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Charlotte",
+        "GE_State": "NC",
+        "GE_CityState": "Charlotte, NC",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8379593,
+          35.2228584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Chattanooga",
+        "GE_State": "TN",
+        "GE_CityState": "Chattanooga, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3094635,
+          35.0464401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Chesterfield",
+        "GE_State": "VA",
+        "GE_CityState": "Chesterfield, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5082474,
+          37.3768311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Cheyenne Wells",
+        "GE_State": "CO",
+        "GE_CityState": "Cheyenne Wells, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.3480835,
+          38.819519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Chico",
+        "GE_State": "CA",
+        "GE_CityState": "Chico, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.84198,
+          39.7319984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Clarksdale",
+        "GE_State": "MS",
+        "GE_CityState": "Clarksdale, MS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5649185,
+          34.1945686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Clarksville",
+        "GE_State": "TN",
+        "GE_CityState": "Clarksville, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3597717,
+          36.5307503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Claxton",
+        "GE_State": "GA",
+        "GE_CityState": "Claxton, GA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9045105,
+          32.1612892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Coatesville",
+        "GE_State": "PA",
+        "GE_CityState": "Coatesville, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.8206329,
+          39.9819412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Columbus",
+        "GE_State": "NC",
+        "GE_CityState": "Columbus, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.193718,
+          35.2561302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Columbus",
+        "GE_State": "OH",
+        "GE_CityState": "Columbus, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0027466,
+          39.9619904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Commack",
+        "GE_State": "NY",
+        "GE_CityState": "Commack, NY",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2914429,
+          40.8471298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Corpus Christi",
+        "GE_State": "TX",
+        "GE_CityState": "Corpus Christi, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4035568,
+          27.7964096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Crescent City",
+        "GE_State": "CA",
+        "GE_CityState": "Crescent City, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2004623,
+          41.7528114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Cut Bank",
+        "GE_State": "MT",
+        "GE_CityState": "Cut Bank, MT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3326263,
+          48.6366615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Cypress",
+        "GE_State": "TX",
+        "GE_CityState": "Cypress, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6779175,
+          29.97579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Dallas",
+        "GE_State": "TX",
+        "GE_CityState": "Dallas, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7954025,
+          32.7781487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Damariscotta",
+        "GE_State": "ME",
+        "GE_CityState": "Damariscotta, ME",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.5299988,
+          44.0321083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Davie",
+        "GE_State": "FL",
+        "GE_CityState": "Davie, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2349472,
+          26.06567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Defiance",
+        "GE_State": "OH",
+        "GE_CityState": "Defiance, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.362381,
+          41.2862396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Denver",
+        "GE_State": "CO",
+        "GE_CityState": "Denver, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9923019,
+          39.7400093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Dickson",
+        "GE_State": "TN",
+        "GE_CityState": "Dickson, TN",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.387413,
+          36.0764389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Dover",
+        "GE_State": "DE",
+        "GE_CityState": "Dover, DE",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5247269,
+          39.1580315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Dulles",
+        "GE_State": "VA",
+        "GE_CityState": "Dulles, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3971786,
+          39.0278397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Durham",
+        "GE_State": "NC",
+        "GE_CityState": "Durham, NC",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8964386,
+          35.9954185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "East Ridge",
+        "GE_State": "TN",
+        "GE_CityState": "East Ridge, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2437668,
+          34.9967117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Easton",
+        "GE_State": "MD",
+        "GE_CityState": "Easton, MD",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0747528,
+          38.7738991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Eaton Rapids",
+        "GE_State": "MI",
+        "GE_CityState": "Eaton Rapids, MI",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6558304,
+          42.5114288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Edmond",
+        "GE_State": "OK",
+        "GE_CityState": "Edmond, OK",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4781265,
+          35.6548996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "El Paso",
+        "GE_State": "TX",
+        "GE_CityState": "El Paso, TX",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4874878,
+          31.7591591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Erie",
+        "GE_State": "PA",
+        "GE_CityState": "Erie, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0852432,
+          42.1294403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fairfax",
+        "GE_State": "VA",
+        "GE_CityState": "Fairfax, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3088684,
+          38.8417892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Falls City",
+        "GE_State": "NE",
+        "GE_CityState": "Falls City, NE",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6011505,
+          40.0587616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Farmington",
+        "GE_State": "CT",
+        "GE_CityState": "Farmington, CT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8385696,
+          41.7121201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fayetteville",
+        "GE_State": "NC",
+        "GE_CityState": "Fayetteville, NC",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8775787,
+          35.0544891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fitzgerald",
+        "GE_State": "GA",
+        "GE_CityState": "Fitzgerald, GA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2522583,
+          31.7149696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Folsom",
+        "GE_State": "CA",
+        "GE_CityState": "Folsom, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1628265,
+          38.6817513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fort Mohave",
+        "GE_State": "AZ",
+        "GE_CityState": "Fort Mohave, AZ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5979919,
+          35.0201912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fort Smith",
+        "GE_State": "AR",
+        "GE_CityState": "Fort Smith, AR",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4213028,
+          35.3846016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fort Worth",
+        "GE_State": "TX",
+        "GE_CityState": "Fort Worth, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3308563,
+          32.7509499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Fostoria",
+        "GE_State": "OH",
+        "GE_CityState": "Fostoria, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4123535,
+          41.1556816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Frankfort",
+        "GE_State": "IN",
+        "GE_CityState": "Frankfort, IN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5107193,
+          40.2821312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Frankfort",
+        "GE_State": "IL",
+        "GE_CityState": "Frankfort, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8616867,
+          41.4975586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Frankfort",
+        "GE_State": "KY",
+        "GE_CityState": "Frankfort, KY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8786926,
+          38.1950684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Franklin",
+        "GE_State": "NE",
+        "GE_CityState": "Franklin, NE",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9542313,
+          40.0960808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Freehold",
+        "GE_State": "NJ",
+        "GE_CityState": "Freehold, NJ",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2765121,
+          40.2585297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Gaffney",
+        "GE_State": "SC",
+        "GE_CityState": "Gaffney, SC",
+        "Zip": "",
+        "GE_Count": 3,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6486588,
+          35.0736198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Gallatin",
+        "GE_State": "TN",
+        "GE_CityState": "Gallatin, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4462204,
+          36.3878212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Golden",
+        "GE_State": "CO",
+        "GE_CityState": "Golden, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2249527,
+          39.756649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Granbury",
+        "GE_State": "TX",
+        "GE_CityState": "Granbury, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7942581,
+          32.4423485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Great Barrington",
+        "GE_State": "MA",
+        "GE_CityState": "Great Barrington, MA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3610916,
+          42.1961517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Great Falls",
+        "GE_State": "MT",
+        "GE_CityState": "Great Falls, MT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3060684,
+          47.5071411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Green Valley",
+        "GE_State": "AZ",
+        "GE_CityState": "Green Valley, AZ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9952316,
+          31.8814697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Greenfield",
+        "GE_State": "IA",
+        "GE_CityState": "Greenfield, IA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.460289,
+          41.3031693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Greenlawn",
+        "GE_State": "NY",
+        "GE_CityState": "Greenlawn, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.3644409,
+          40.8606987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Gresham",
+        "GE_State": "OR",
+        "GE_CityState": "Gresham, OR",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4353409,
+          45.506279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Guttenberg",
+        "GE_State": "IA",
+        "GE_CityState": "Guttenberg, IA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1017227,
+          42.7857285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hamilton",
+        "GE_State": "NJ",
+        "GE_CityState": "Hamilton, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7238617,
+          40.2303581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hampton",
+        "GE_State": "VA",
+        "GE_CityState": "Hampton, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.3451233,
+          37.0277901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hampton Bays",
+        "GE_State": "NY",
+        "GE_CityState": "Hampton Bays, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5200272,
+          40.8729401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Harrisburg",
+        "GE_State": "IL",
+        "GE_CityState": "Harrisburg, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5401611,
+          37.7383614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Harrison",
+        "GE_State": "AR",
+        "GE_CityState": "Harrison, AR",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1105194,
+          36.2286186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hazlehurst",
+        "GE_State": "MS",
+        "GE_CityState": "Hazlehurst, MS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3940125,
+          31.8597393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hendersonville",
+        "GE_State": "NC",
+        "GE_CityState": "Hendersonville, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4586563,
+          35.3155708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hendricks",
+        "GE_State": "MN",
+        "GE_CityState": "Hendricks, MN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4243011,
+          44.5065689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hermitage",
+        "GE_State": "TN",
+        "GE_CityState": "Hermitage, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6224976,
+          36.1962013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hilo",
+        "GE_State": "HI",
+        "GE_CityState": "Hilo, HI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0818481,
+          19.7192402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hinesville",
+        "GE_State": "GA",
+        "GE_CityState": "Hinesville, GA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.583847,
+          31.8510494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Holland",
+        "GE_State": "MI",
+        "GE_CityState": "Holland, MI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1017609,
+          42.7730904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hollywood",
+        "GE_State": "FL",
+        "GE_CityState": "Hollywood, FL",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16008,
+          26.0104103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hondo",
+        "GE_State": "TX",
+        "GE_CityState": "Hondo, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1411133,
+          29.3475609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Houston",
+        "GE_State": "TX",
+        "GE_CityState": "Houston, TX",
+        "Zip": "",
+        "GE_Count": 4,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3697815,
+          29.7604504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hoxie",
+        "GE_State": "KS",
+        "GE_CityState": "Hoxie, KS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4419403,
+          39.3533211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Huntington Park",
+        "GE_State": "CA",
+        "GE_CityState": "Huntington Park, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2191391,
+          33.9813995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Huntsville",
+        "GE_State": "AL",
+        "GE_CityState": "Huntsville, AL",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5849762,
+          34.7291298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Hyannis",
+        "GE_State": "MA",
+        "GE_CityState": "Hyannis, MA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2796326,
+          41.654789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Idaho Falls",
+        "GE_State": "ID",
+        "GE_CityState": "Idaho Falls, ID",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0419922,
+          43.4920006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jackson",
+        "GE_State": "MS",
+        "GE_CityState": "Jackson, MS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1804886,
+          32.2986908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jacksonville",
+        "GE_State": "FL",
+        "GE_CityState": "Jacksonville, FL",
+        "Zip": "",
+        "GE_Count": 3,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6562195,
+          30.3314705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jefferson",
+        "GE_State": "IA",
+        "GE_CityState": "Jefferson, IA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3774338,
+          42.0157509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Jonesboro",
+        "GE_State": "LA",
+        "GE_CityState": "Jonesboro, LA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7116699,
+          32.2436295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kansas City",
+        "GE_State": "MO",
+        "GE_CityState": "Kansas City, MO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5830765,
+          39.102951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kaufman",
+        "GE_State": "TX",
+        "GE_CityState": "Kaufman, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3109207,
+          32.5897293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kayenta",
+        "GE_State": "AZ",
+        "GE_CityState": "Kayenta, AZ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.2564697,
+          36.7244492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kenton",
+        "GE_State": "OH",
+        "GE_CityState": "Kenton, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6079712,
+          40.6478119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kernersville",
+        "GE_State": "NC",
+        "GE_CityState": "Kernersville, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0725098,
+          36.1195183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kewanee",
+        "GE_State": "IL",
+        "GE_CityState": "Kewanee, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9248505,
+          41.2472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Kings Mountain",
+        "GE_State": "NC",
+        "GE_CityState": "Kings Mountain, NC",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3457336,
+          35.242691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Knoxville",
+        "GE_State": "TN",
+        "GE_CityState": "Knoxville, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9209137,
+          35.9604912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "La Jolla",
+        "GE_State": "CA",
+        "GE_CityState": "La Jolla, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2553864,
+          32.8370476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lafayette",
+        "GE_State": "LA",
+        "GE_CityState": "Lafayette, LA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0170517,
+          30.2203197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lake Havasu City",
+        "GE_State": "AZ",
+        "GE_CityState": "Lake Havasu City, AZ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.3458633,
+          34.4739799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lakeland",
+        "GE_State": "FL",
+        "GE_CityState": "Lakeland, FL",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9478607,
+          28.0441895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lakewood",
+        "GE_State": "CO",
+        "GE_CityState": "Lakewood, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0820694,
+          39.7109184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lakewood",
+        "GE_State": "NJ",
+        "GE_CityState": "Lakewood, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2135773,
+          40.0932503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lancaster",
+        "GE_State": "WI",
+        "GE_CityState": "Lancaster, WI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7096329,
+          42.8474998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lawrenceburg",
+        "GE_State": "IN",
+        "GE_CityState": "Lawrenceburg, IN",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8517914,
+          39.0924606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Layton",
+        "GE_State": "UT",
+        "GE_CityState": "Layton, UT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9610214,
+          41.0659294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Leander",
+        "GE_State": "TX",
+        "GE_CityState": "Leander, TX",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8530426,
+          30.5791206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lewes",
+        "GE_State": "DE",
+        "GE_CityState": "Lewes, DE",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1307983,
+          38.7804298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lewistown",
+        "GE_State": "PA",
+        "GE_CityState": "Lewistown, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5739365,
+          40.5968895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lewisville",
+        "GE_State": "TX",
+        "GE_CityState": "Lewisville, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9959335,
+          33.0472183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Liberal",
+        "GE_State": "KS",
+        "GE_CityState": "Liberal, KS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.925209,
+          37.0323792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lombard",
+        "GE_State": "IL",
+        "GE_CityState": "Lombard, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0110779,
+          41.8675613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lone Pine",
+        "GE_State": "CA",
+        "GE_CityState": "Lone Pine, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.0628128,
+          36.6045189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Lone Tree",
+        "GE_State": "CO",
+        "GE_CityState": "Lone Tree, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8812714,
+          39.5526695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Long Branch",
+        "GE_State": "NJ",
+        "GE_CityState": "Long Branch, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9933701,
+          40.3037605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Long Island City",
+        "GE_State": "NY",
+        "GE_CityState": "Long Island City, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9244385,
+          40.7623672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Los Alamos",
+        "GE_State": "NM",
+        "GE_CityState": "Los Alamos, NM",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.30439,
+          35.8806381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Los Banos",
+        "GE_State": "CA",
+        "GE_CityState": "Los Banos, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8475571,
+          37.0613899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Louisville",
+        "GE_State": "CO",
+        "GE_CityState": "Louisville, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1321182,
+          39.9772911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Luling",
+        "GE_State": "TX",
+        "GE_CityState": "Luling, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6468506,
+          29.6804409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Madison",
+        "GE_State": "SD",
+        "GE_CityState": "Madison, SD",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1103897,
+          44.0072098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Madison",
+        "GE_State": "WI",
+        "GE_CityState": "Madison, WI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4039688,
+          43.042469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Manorville",
+        "GE_State": "NY",
+        "GE_CityState": "Manorville, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.8057404,
+          40.872879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Marion",
+        "GE_State": "NC",
+        "GE_CityState": "Marion, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0083771,
+          35.6843109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Marlborough",
+        "GE_State": "MA",
+        "GE_CityState": "Marlborough, MA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5479889,
+          42.3468018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Marshalltown",
+        "GE_State": "IA",
+        "GE_CityState": "Marshalltown, IA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.90802,
+          42.0497704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Maryville",
+        "GE_State": "MO",
+        "GE_CityState": "Maryville, MO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8729095,
+          40.3474503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Maumee",
+        "GE_State": "OH",
+        "GE_CityState": "Maumee, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6541672,
+          41.5633507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Maumee",
+        "GE_State": "OH",
+        "GE_CityState": "Maumee, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6541672,
+          41.5633507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mc Kees Rocks",
+        "GE_State": "PA",
+        "GE_CityState": "Mc Kees Rocks, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8387527,
+          40.8965111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mc Kenzie",
+        "GE_State": "TN",
+        "GE_CityState": "Mc Kenzie, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5095139,
+          36.1379509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mc Leansboro",
+        "GE_State": "IL",
+        "GE_CityState": "Mc Leansboro, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1587677,
+          40.1139374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mcallen",
+        "GE_State": "TX",
+        "GE_CityState": "Mcallen, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2293625,
+          26.2074203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Miami",
+        "GE_State": "FL",
+        "GE_CityState": "Miami, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.197731,
+          25.7748108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Midlothian",
+        "GE_State": "VA",
+        "GE_CityState": "Midlothian, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6512604,
+          37.50354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Milwaukee",
+        "GE_State": "WI",
+        "GE_CityState": "Milwaukee, WI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9068375,
+          43.0418091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Missoula",
+        "GE_State": "MT",
+        "GE_CityState": "Missoula, MT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.9962311,
+          46.8727798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mobile",
+        "GE_State": "AL",
+        "GE_CityState": "Mobile, AL",
+        "Zip": "",
+        "GE_Count": 3,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0532379,
+          30.6863899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Moncks Corner",
+        "GE_State": "SC",
+        "GE_CityState": "Moncks Corner, SC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0126877,
+          33.1964912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Moore",
+        "GE_State": "OK",
+        "GE_CityState": "Moore, OK",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.485611,
+          35.3382607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Morristown",
+        "GE_State": "NJ",
+        "GE_CityState": "Morristown, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4771271,
+          40.7930107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mount Airy",
+        "GE_State": "NC",
+        "GE_CityState": "Mount Airy, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6068802,
+          36.4990501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mount Holly",
+        "GE_State": "NJ",
+        "GE_CityState": "Mount Holly, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7883987,
+          39.9929695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Mukwonago",
+        "GE_State": "WI",
+        "GE_CityState": "Mukwonago, WI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3293304,
+          42.8588905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Nacogdoches",
+        "GE_State": "TX",
+        "GE_CityState": "Nacogdoches, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6556168,
+          31.6035805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Napoleon",
+        "GE_State": "OH",
+        "GE_CityState": "Napoleon, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1258392,
+          41.3919907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Nashville",
+        "GE_State": "TN",
+        "GE_CityState": "Nashville, TN",
+        "Zip": "",
+        "GE_Count": 4,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7781601,
+          36.1678391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "New Haven",
+        "GE_State": "CT",
+        "GE_CityState": "New Haven, CT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9246216,
+          41.307621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "New Iberia",
+        "GE_State": "LA",
+        "GE_CityState": "New Iberia, LA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8175888,
+          30.0051308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "New Lenox",
+        "GE_State": "IL",
+        "GE_CityState": "New Lenox, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9688721,
+          41.5121117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "New York",
+        "GE_State": "NY",
+        "GE_CityState": "New York, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8317032,
+          40.7820015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Newberg",
+        "GE_State": "OR",
+        "GE_CityState": "Newberg, OR",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9753571,
+          45.3003006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Newton",
+        "GE_State": "NJ",
+        "GE_CityState": "Newton, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7531891,
+          41.0585594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Nocona",
+        "GE_State": "TX",
+        "GE_CityState": "Nocona, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7274704,
+          33.7864685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Nyack",
+        "GE_State": "NY",
+        "GE_CityState": "Nyack, NY",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9181595,
+          41.0912704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Oakland",
+        "GE_State": "CA",
+        "GE_CityState": "Oakland, CA",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2730713,
+          37.8050804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ocala",
+        "GE_State": "FL",
+        "GE_CityState": "Ocala, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1403885,
+          29.1875191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Oklahoma City",
+        "GE_State": "OK",
+        "GE_CityState": "Oklahoma City, OK",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5210724,
+          35.4720306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Olean",
+        "GE_State": "NY",
+        "GE_CityState": "Olean, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3958435,
+          42.0979118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Oregon",
+        "GE_State": "OH",
+        "GE_CityState": "Oregon, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4227905,
+          41.6524506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Oregon City",
+        "GE_State": "OR",
+        "GE_CityState": "Oregon City, OR",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5927811,
+          45.3365097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Overland Park",
+        "GE_State": "KS",
+        "GE_CityState": "Overland Park, KS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6716766,
+          38.98489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Pearland",
+        "GE_State": "TX",
+        "GE_CityState": "Pearland, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2568665,
+          29.55093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Pembroke Pines",
+        "GE_State": "FL",
+        "GE_CityState": "Pembroke Pines, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2801132,
+          26.00811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Pensacola",
+        "GE_State": "FL",
+        "GE_CityState": "Pensacola, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2172394,
+          30.4208393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Peoria",
+        "GE_State": "IL",
+        "GE_CityState": "Peoria, IL",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5877609,
+          40.6921387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Philadelphia",
+        "GE_State": "PA",
+        "GE_CityState": "Philadelphia, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1624527,
+          39.9522781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Phoenix",
+        "GE_State": "AZ",
+        "GE_CityState": "Phoenix, AZ",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.075798,
+          33.4482498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Pickerington",
+        "GE_State": "OH",
+        "GE_CityState": "Pickerington, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7534332,
+          39.8840408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Plains",
+        "GE_State": "MT",
+        "GE_CityState": "Plains, MT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8828506,
+          47.4598312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Plano",
+        "GE_State": "TX",
+        "GE_CityState": "Plano, TX",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6992493,
+          33.0207901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Port Saint Lucie",
+        "GE_State": "FL",
+        "GE_CityState": "Port Saint Lucie, FL",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3633118,
+          27.2741795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Portland",
+        "GE_State": "ME",
+        "GE_CityState": "Portland, ME",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.2566528,
+          43.6591415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Portland",
+        "GE_State": "OR",
+        "GE_CityState": "Portland, OR",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6756287,
+          45.5117912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Portsmouth",
+        "GE_State": "NH",
+        "GE_CityState": "Portsmouth, NH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7721176,
+          43.0706215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Prince Frederick",
+        "GE_State": "MD",
+        "GE_CityState": "Prince Frederick, MD",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.584198,
+          38.5398216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Prosser",
+        "GE_State": "WA",
+        "GE_CityState": "Prosser, WA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7690277,
+          46.2066002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Queens",
+        "GE_State": "NY",
+        "GE_CityState": "Queens, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8299866,
+          40.7140007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Racine",
+        "GE_State": "WI",
+        "GE_CityState": "Racine, WI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7904129,
+          42.7252083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Raeford",
+        "GE_State": "NC",
+        "GE_CityState": "Raeford, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2240295,
+          34.9785881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Rahway",
+        "GE_State": "NJ",
+        "GE_CityState": "Rahway, NJ",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2743607,
+          40.6043396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Raleigh",
+        "GE_State": "NC",
+        "GE_CityState": "Raleigh, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6426697,
+          35.785511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Rehoboth Beach",
+        "GE_State": "DE",
+        "GE_CityState": "Rehoboth Beach, DE",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0817795,
+          38.71558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Reno",
+        "GE_State": "NV",
+        "GE_CityState": "Reno, NV",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8134384,
+          39.5273819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Reston",
+        "GE_State": "VA",
+        "GE_CityState": "Reston, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.354538,
+          38.9596786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Rexburg",
+        "GE_State": "ID",
+        "GE_CityState": "Rexburg, ID",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7830887,
+          43.8260689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Richmond",
+        "GE_State": "VA",
+        "GE_CityState": "Richmond, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4336472,
+          37.540699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ridgecrest",
+        "GE_State": "CA",
+        "GE_CityState": "Ridgecrest, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6688614,
+          35.6224785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Riverhead",
+        "GE_State": "NY",
+        "GE_CityState": "Riverhead, NY",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6685104,
+          40.9183006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Rochester",
+        "GE_State": "MI",
+        "GE_CityState": "Rochester, MI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1370163,
+          42.6834183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Rochester",
+        "GE_State": "NY",
+        "GE_CityState": "Rochester, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6163177,
+          43.1557999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Rockville",
+        "GE_State": "MD",
+        "GE_CityState": "Rockville, MD",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1512375,
+          39.0816612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Roosevelt",
+        "GE_State": "UT",
+        "GE_CityState": "Roosevelt, UT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.9895706,
+          40.2967491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Roseburg",
+        "GE_State": "OR",
+        "GE_CityState": "Roseburg, OR",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3432312,
+          43.2108803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Saginaw",
+        "GE_State": "MI",
+        "GE_CityState": "Saginaw, MI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9466705,
+          43.4191818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Saint Petersburg",
+        "GE_State": "FL",
+        "GE_CityState": "Saint Petersburg, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6387634,
+          27.7711906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Salem",
+        "GE_State": "VA",
+        "GE_CityState": "Salem, VA",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0531387,
+          37.2936516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Salem",
+        "GE_State": "MA",
+        "GE_CityState": "Salem, MA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.895813,
+          42.5223999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Salt Lake City",
+        "GE_State": "UT",
+        "GE_CityState": "Salt Lake City, UT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8882217,
+          40.7603111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "San Antonio",
+        "GE_State": "TX",
+        "GE_CityState": "San Antonio, TX",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4946136,
+          29.4245796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "San Diego",
+        "GE_State": "CA",
+        "GE_CityState": "San Diego, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1617203,
+          32.7156906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "San Francisco",
+        "GE_State": "CA",
+        "GE_CityState": "San Francisco, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4196396,
+          37.7771187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "San Jose",
+        "GE_State": "CA",
+        "GE_CityState": "San Jose, CA",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8855667,
+          37.3385811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "San Luis Obispo",
+        "GE_State": "CA",
+        "GE_CityState": "San Luis Obispo, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6625214,
+          35.2855186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Santa Fe",
+        "GE_State": "NM",
+        "GE_CityState": "Santa Fe, NM",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9379578,
+          35.6916809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Seaford",
+        "GE_State": "DE",
+        "GE_CityState": "Seaford, DE",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6090469,
+          38.6437416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Seattle",
+        "GE_State": "WA",
+        "GE_CityState": "Seattle, WA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3294525,
+          47.603569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sewickley",
+        "GE_State": "PA",
+        "GE_CityState": "Sewickley, PA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.180191,
+          40.5381088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Shelton",
+        "GE_State": "CT",
+        "GE_CityState": "Shelton, CT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1091003,
+          41.3226013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sherman Oaks",
+        "GE_State": "CA",
+        "GE_CityState": "Sherman Oaks, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4418106,
+          34.1503868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Shiprock",
+        "GE_State": "NM",
+        "GE_CityState": "Shiprock, NM",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.6834106,
+          36.7853699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sidney",
+        "GE_State": "NE",
+        "GE_CityState": "Sidney, NE",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9761429,
+          41.1448593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Smyrna",
+        "GE_State": "TN",
+        "GE_CityState": "Smyrna, TN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5121307,
+          35.974659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Somerville",
+        "GE_State": "NJ",
+        "GE_CityState": "Somerville, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6193924,
+          40.5707016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Spartanburg",
+        "GE_State": "SC",
+        "GE_CityState": "Spartanburg, SC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9348679,
+          34.9482498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Spring",
+        "GE_State": "TX",
+        "GE_CityState": "Spring, TX",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4192886,
+          30.0845299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Springfield",
+        "GE_State": "OH",
+        "GE_CityState": "Springfield, OH",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8067322,
+          39.9250183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Spruce Pine",
+        "GE_State": "NC",
+        "GE_CityState": "Spruce Pine, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.072731,
+          35.9169807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "St Louis",
+        "GE_State": "MO",
+        "GE_CityState": "St Louis, MO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1995621,
+          38.6277504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Staten Island",
+        "GE_State": "NY",
+        "GE_CityState": "Staten Island, NY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0752792,
+          40.6424408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sterling",
+        "GE_State": "IL",
+        "GE_CityState": "Sterling, IL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.698822,
+          41.7940407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sunnyside",
+        "GE_State": "WA",
+        "GE_CityState": "Sunnyside, WA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0093536,
+          46.3237915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Sylvania",
+        "GE_State": "OH",
+        "GE_CityState": "Sylvania, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7042465,
+          41.7155685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Tarboro",
+        "GE_State": "NC",
+        "GE_CityState": "Tarboro, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5407562,
+          35.9069519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Taylorsville",
+        "GE_State": "UT",
+        "GE_CityState": "Taylorsville, UT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9388504,
+          40.6565399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Texas City",
+        "GE_State": "TX",
+        "GE_CityState": "Texas City, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9250717,
+          29.3927593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "The Dalles",
+        "GE_State": "OR",
+        "GE_CityState": "The Dalles, OR",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.1834335,
+          45.6015511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "The Woodlands",
+        "GE_State": "TX",
+        "GE_CityState": "The Woodlands, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4557724,
+          30.1575203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Thousand Oaks",
+        "GE_State": "CA",
+        "GE_CityState": "Thousand Oaks, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.8927765,
+          34.18536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Toledo",
+        "GE_State": "OH",
+        "GE_CityState": "Toledo, OH",
+        "Zip": "",
+        "GE_Count": 3,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5362625,
+          41.6538086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Toms River",
+        "GE_State": "NJ",
+        "GE_CityState": "Toms River, NJ",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1937866,
+          39.9528809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Towson",
+        "GE_State": "MD",
+        "GE_CityState": "Towson, MD",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6053619,
+          39.3999405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Trinity",
+        "GE_State": "FL",
+        "GE_CityState": "Trinity, FL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6812134,
+          28.1797791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Troy",
+        "GE_State": "MI",
+        "GE_CityState": "Troy, MI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1544876,
+          42.5623703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Troy",
+        "GE_State": "OH",
+        "GE_CityState": "Troy, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2039032,
+          40.0398903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Trumbull",
+        "GE_State": "CT",
+        "GE_CityState": "Trumbull, CT",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2196732,
+          41.234951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Tupelo",
+        "GE_State": "MS",
+        "GE_CityState": "Tupelo, MS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7078323,
+          34.2574081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Tuscaloosa",
+        "GE_State": "AL",
+        "GE_CityState": "Tuscaloosa, AL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5659332,
+          33.2104912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Tuskegee",
+        "GE_State": "AL",
+        "GE_CityState": "Tuskegee, AL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6897812,
+          32.4240494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Ulysses",
+        "GE_State": "KS",
+        "GE_CityState": "Ulysses, KS",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.3633575,
+          37.5770607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Virginia Beach",
+        "GE_State": "VA",
+        "GE_CityState": "Virginia Beach, VA",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0591965,
+          36.7550201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Voorhees",
+        "GE_State": "NJ",
+        "GE_CityState": "Voorhees, NJ",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9837723,
+          39.8549995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Warren",
+        "GE_State": "MI",
+        "GE_CityState": "Warren, MI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0285187,
+          42.5111084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Warren",
+        "GE_State": "OH",
+        "GE_CityState": "Warren, OH",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8127975,
+          41.2361984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Warsaw",
+        "GE_State": "IN",
+        "GE_CityState": "Warsaw, IN",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8527985,
+          41.2385597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Washington",
+        "GE_State": "DC",
+        "GE_CityState": "Washington, DC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0319595,
+          38.8903694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Waukesha",
+        "GE_State": "WI",
+        "GE_CityState": "Waukesha, WI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2354813,
+          43.0145798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Waynesboro",
+        "GE_State": "GA",
+        "GE_CityState": "Waynesboro, GA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0163116,
+          33.0897713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Webster",
+        "GE_State": "TX",
+        "GE_CityState": "Webster, TX",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1191406,
+          29.5333595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Wentzville",
+        "GE_State": "MO",
+        "GE_CityState": "Wentzville, MO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8539505,
+          38.8115387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "West Allis",
+        "GE_State": "WI",
+        "GE_CityState": "West Allis, WI",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0063095,
+          43.0166588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "West Grove",
+        "GE_State": "PA",
+        "GE_CityState": "West Grove, PA",
+        "Zip": "",
+        "GE_Count": 2,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.826683,
+          39.8221588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "West Plains",
+        "GE_State": "MO",
+        "GE_CityState": "West Plains, MO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8530731,
+          36.7311211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Westminster",
+        "GE_State": "CO",
+        "GE_CityState": "Westminster, CO",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0619049,
+          39.8833122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "White Sulphur Springs",
+        "GE_State": "WV",
+        "GE_CityState": "White Sulphur Springs, WV",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3001633,
+          37.7943497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Wichita",
+        "GE_State": "KS",
+        "GE_CityState": "Wichita, KS",
+        "Zip": "",
+        "GE_Count": 3,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3355789,
+          37.6869812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Wilmington",
+        "GE_State": "NC",
+        "GE_CityState": "Wilmington, NC",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9459915,
+          34.2349701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Winchester",
+        "GE_State": "KY",
+        "GE_CityState": "Winchester, KY",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1792297,
+          37.9928017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Winchester",
+        "GE_State": "VA",
+        "GE_CityState": "Winchester, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1640472,
+          39.1839981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Winfield",
+        "GE_State": "AL",
+        "GE_CityState": "Winfield, AL",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8165512,
+          33.9285812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Woodland Hills",
+        "GE_State": "CA",
+        "GE_CityState": "Woodland Hills, CA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.6048813,
+          34.1661758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Wytheville",
+        "GE_State": "VA",
+        "GE_CityState": "Wytheville, VA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0835266,
+          36.9498405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "GE_City": "Yakima",
+        "GE_State": "WA",
+        "GE_CityState": "Yakima, WA",
+        "Zip": "",
+        "GE_Count": 1,
+        "Qtr": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5070496,
+          46.6041298
+        ]
+      }
+    }
+  ]
+}

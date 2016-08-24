@@ -1,0 +1,395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "City": "Chicago",
+        "Off_2007": 4.84,
+        "Off_2008": 4.72,
+        "Off_2009": 4.59,
+        "Off_2010": 4.42,
+        "Off_2011": 4.47,
+        "Off_2012": 4.41,
+        "Off_2013": 4.45,
+        "name": "Chicago",
+        "desc": "Chicago, IL",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6324463,
+          41.8842506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "City": "Indianapolis",
+        "Off_2007": 2.01,
+        "Off_2008": 1.97,
+        "Off_2009": 1.99,
+        "Off_2010": 2,
+        "Off_2011": 1.94,
+        "Off_2012": 1.9,
+        "Off_2013": 1.81,
+        "name": "Indianapolis",
+        "desc": "Indianapolis, IN",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1499634,
+          39.7669106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "City": "Columbus",
+        "Off_2007": 2.47,
+        "Off_2008": 2.43,
+        "Off_2009": 2.47,
+        "Off_2010": 2.35,
+        "Off_2011": 2.29,
+        "Off_2012": 2.29,
+        "Off_2013": 2.28,
+        "name": "Columbus",
+        "desc": "Columbus, OH",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0027466,
+          39.9619904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "City": "Detroit",
+        "Off_2007": 3.53,
+        "Off_2008": 3.35,
+        "Off_2009": 3.23,
+        "Off_2010": 3.21,
+        "Off_2011": 3.87,
+        "Off_2012": 3.63,
+        "Off_2013": 3.37,
+        "name": "Detroit",
+        "desc": "Detroit, MI",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0479965,
+          42.3316803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "City": "Milwaukee",
+        "Off_2007": 3.38,
+        "Off_2008": 3.35,
+        "Off_2009": 3.18,
+        "Off_2010": 3.2,
+        "Off_2011": 3.12,
+        "Off_2012": 3.18,
+        "Off_2013": 3.1,
+        "name": "Milwaukee",
+        "desc": "Milwaukee, WI",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9068375,
+          43.0418091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "City": "Kansas City",
+        "Off_2007": 3.15,
+        "Off_2008": 2.93,
+        "Off_2009": 2.87,
+        "Off_2010": 2.91,
+        "Off_2011": 3.01,
+        "Off_2012": 2.74,
+        "Off_2013": 2.94,
+        "name": "Kansas City",
+        "desc": "Kansas City, MO",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5830765,
+          39.102951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "City": "Omaha",
+        "Off_2007": 1.75,
+        "Off_2008": 1.71,
+        "Off_2009": 1.74,
+        "Off_2010": 1.7,
+        "Off_2011": 1.89,
+        "Off_2012": 1.9,
+        "Off_2013": 1.8,
+        "name": "Omaha",
+        "desc": "Omaha, NE",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9405899,
+          41.2606888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "City": "Cleveland",
+        "Off_2007": 3.76,
+        "Off_2008": 3.72,
+        "Off_2009": 3.83,
+        "Off_2010": 3.66,
+        "Off_2011": 3.65,
+        "Off_2012": 3.76,
+        "Off_2013": 3.79,
+        "name": "Cleveland",
+        "desc": "Cleveland, OH",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6907196,
+          41.5047493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "City": "Minneapolis",
+        "Off_2007": 2.28,
+        "Off_2008": 2.36,
+        "Off_2009": 2.32,
+        "Off_2010": 2.28,
+        "Off_2011": 2.21,
+        "Off_2012": 2.18,
+        "Off_2013": 2.13,
+        "name": "Minneapolis",
+        "desc": "Minneapolis, MN",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2649307,
+          44.9790306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "City": "Wichita",
+        "Off_2007": 1.8,
+        "Off_2008": 1.73,
+        "Off_2009": 1.75,
+        "Off_2010": 1.67,
+        "Off_2011": 1.68,
+        "Off_2012": 1.66,
+        "Off_2013": 1.65,
+        "name": "Wichita",
+        "desc": "Wichita, KS",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3355789,
+          37.6869812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "City": "St. Louis",
+        "Off_2007": 3.88,
+        "Off_2008": 3.94,
+        "Off_2009": 3.96,
+        "Off_2010": 3.84,
+        "Off_2011": 4.25,
+        "Off_2012": 4.15,
+        "Off_2013": 4.04,
+        "name": "St. Louis",
+        "desc": "St Louis, MO",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1995621,
+          38.6277504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "City": "Cincinnati",
+        "Off_2007": 3.33,
+        "Off_2008": 3.26,
+        "Off_2009": 3.34,
+        "Off_2010": 3.28,
+        "Off_2011": 3.49,
+        "Off_2012": 3.35,
+        "Off_2013": 3.24,
+        "name": "Cincinnati",
+        "desc": "Cincinnati, OH",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5041275,
+          39.1071281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "City": "St. Paul",
+        "Off_2007": 2.22,
+        "Off_2008": 2.17,
+        "Off_2009": 2.19,
+        "Off_2010": 2.11,
+        "Off_2011": 2.07,
+        "Off_2012": 2.05,
+        "Off_2013": 1.99,
+        "name": "St. Paul",
+        "desc": "St Paul, MN",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0933228,
+          44.943821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "City": "Toledo",
+        "Off_2007": 2.26,
+        "Off_2008": 2.01,
+        "Off_2009": 2.08,
+        "Off_2010": 1.79,
+        "Off_2011": 1.44,
+        "Off_2012": 1.99,
+        "Off_2013": 1.88,
+        "name": "Toledo",
+        "desc": "Toledo, OH",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5362625,
+          41.6538086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "City": "Lincoln",
+        "Off_2007": 1.27,
+        "Off_2008": 1.25,
+        "Off_2009": 1.25,
+        "Off_2010": 1.25,
+        "Off_2011": 1.25,
+        "Off_2012": 1.21,
+        "Off_2013": 1.2,
+        "name": "Lincoln",
+        "desc": "Lincoln, NE",
+        "color": "",
+        "source": "Bing Maps",
+        "precision": "city/town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7077408,
+          40.8136215
+        ]
+      }
+    }
+  ]
+}

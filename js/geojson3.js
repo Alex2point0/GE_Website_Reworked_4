@@ -268,7 +268,7 @@ function processUSAData(data){
 
 function getData(map){
 	//ajax function to get MegaCities data layer loaded into map
-	$.ajax("data/Cities_US4.GeoJSON", {
+	$.ajax("data/UpdatedStates4.GeoJSON", {
 		//datatype specified
 		dataType: "json",
 		//upon success, call the following function
@@ -314,7 +314,7 @@ function getWorldData(map){
 
 function getCountryData(map){
     //ajax function to get MegaCities data layer loaded into map
-    $.ajax("data/GE_Countries.GeoJSON", {
+    $.ajax("data/updatedCountries.GeoJSON", {
         //datatype specified
         dataType: "json",
         //upon success, call the following function
@@ -427,7 +427,7 @@ function createLegend(map, attributes, text){
             var container = L.DomUtil.create('div', 'legend-control-container');
 
             //create temporal legend
-            //$(container).append('<div id = "temporal-legend">');
+            $(container).append('<div id = "temporal-legend">');
 
             //create attribute legend storage 
             var svg = '<svg id = "attribute-legend" width = "5000px" height = "300px">';
@@ -445,7 +445,7 @@ function createLegend(map, attributes, text){
             for (var circle in circles){
                 var text = 185
                 //set styling
-                svg +='<circle class = "legend-circle" id = "' + circle + '" fill = "#ff1919" fill-opacity = "0.75" stroke = "#165056" cx="100" cy="2"/>';
+                svg += '<circle class="legend-circle" id="' + circle + '" fill="#F47821" fill-opacity="0" stroke="#FFF" cx="85"/>';
 
                 //set text here
                 svg += '<text id = "' + circle + '-text" x= 115 y="2' + circles[circle] + '"></text>';
@@ -476,7 +476,7 @@ function createLegend(map, attributes, text){
 
         //assign the cy and r attributes (calculates circle footprint)
         $('#'+key).attr({
-            cy: 260-radius,
+            cy: 200-radius,
             r: radius
         });
         //add legend text
@@ -538,12 +538,16 @@ function updateLegend(map, attribute) {
         '-text" x= 185 y="2'
         //assign the cy and r attributes (calculates circle footprint)
         $('#'+key).attr({
-            cy: 260-radius,
+            cy: 200-radius,
             r: radius
         });
         //add legend text
          //svg += '<text id = "' + circle + '-text" x= 185 y="2' + circles[circle] + '"></text>';
-        $('#'+key+'-text').text(Math.round(circleValues[key]*100)/100 + " Intallations");
+        $('#'+key+'-text').text(Math.round(circleValues[key]*100)/100 + " Installations").attr({
+            x: 65 + circleValues['max'], 
+            y: 134 - (2 * circleValues[key])
+
+        });
     };
 
         // for (var key in circleValues){

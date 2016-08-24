@@ -1,0 +1,94 @@
+GE_latitude,GE_longitude,GE_City,GE_Count,Qtr
+-27.4171391,152.9497833,"Keperra, Australia",2,Q1-2016
+-23.3742199,150.5036469,"Rockhampton, Australia",1,
+-27.4756203,153.0153809,"South Brisbane, Australia",1,
+43.9057007,-78.8237991,"Oshawa, Canada",1,Q1-2016
+43.8841515,125.3036804,"Changchun City, China",2,Q1-2016
+28.1961498,112.9726791,"Changsha, China",1,Q1-2016
+30.5785007,103.9469986,"Chengdu, China",2,Q1-2016
+29.5509491,106.5193481,"Chongqing, China",1,Q1-2016
+37.4424706,116.2857285,"Dezhou, China",1,Q1-2016
+23.1133709,113.2552338,"Guangzhou, China",1,Q1-2016
+22.3361568,114.1869659,"Hongkong, China",1,Q1-2016
+35.87714,119.979332,"Jiaonan, China",1,Q1-2016
+28.4514275,117.9561539,"Shangrao, China",1,Q1-2016
+29.9945698,120.5763321,"Shaoxing, China",1,Q1-2016
+31.3092518,120.6131973,"Suzhou, China",1,Q1-2016
+34.7640305,113.6594086,"Zhengzhou, China",1,Q1-2016
+27.6983795,106.9104767,"Zunyi, China",1,Q1-2016
+39.9065704,116.3876495,"Beijing, China",11,
+35.0371017,104.3860016,"Dingxi, China",1,
+30.2526245,120.1650772,"Hangzhou, China",1,
+35.4040108,116.5893707,"Jining, China",1,
+36.0699615,103.7502136,"Lanzhou, China",1,
+30.3020935,108.9303207,"Lichuan, China",1,
+28.68507,115.8953094,"Nanchang, China",1,
+32.0497818,118.7659836,"Nanjing, China",1,
+25.4506302,119.0219803,"Putian, China",1,
+36.1104889,120.35569,"Qingdao, China",1,
+31.2241459,121.5161362,"Shanghai, China",2,
+35.0753784,117.1615524,"Tengzhou, China",1,
+36.8028908,118.0453491,"Zibo, China",1,
+60.2893715,25.0295601,"Vantaa, Finland",1,Q1-2016
+48.9045982,2.5545299,"Clichy, France",1,Q1-2016
+45.7812004,3.1368799,"Clermont Ferrand, France",1,
+52.5014076,13.4023285,"Berlin, Germany",1,
+35.3292999,25.1240997,"Hrakleio, Greece",1,
+47.1208496,17.9503708,"Veszprem, Hungary",1,
+13.0503302,80.188591,"Chennai, India",1,Q1-2016
+17.4114094,78.4847794,"Hyderabad, India",1,Q1-2016
+23.09589,80.0495834,"Jabalpur, India",1,Q1-2016
+21.1849899,72.8358994,"Surat, India",1,Q1-2016
+8.5051098,76.9514084,"Trivandrum, India",1,Q1-2016
+9.9692497,76.2889786,"Ernakulam, India",1,
+28.4872093,77.4953384,"Greater Noida, India",1,
+17.4114094,78.4847794,"Hyderabad, India",2,
+22.6882191,76.0266113,"Indore, India",1,
+18.93013,72.8300934,"Mumbai, India",1,
+10.7207098,79.1390533,"Thanjavur, India",1,
+-6.2255058,106.9730682,"Bekasi, Indonesia",1,Q1-2016
+-6.1714902,106.8275223,"Jakarta, Indonesia",1,Q1-2016
+-7.2432561,112.7413788,"Surabaya, Indonesia",3,
+32.3667679,130.1030121,"Amakusa , Japan",1,Q1-2016
+32.4284096,131.6552124,"Hiyuuga , Japan",1,Q1-2016
+35.7686501,139.6712494,"Itabashi, Japan",1,Q1-2016
+34.4785652,135.4254761,"Izumi, Japan",1,Q1-2016
+35.3231506,135.4155884,"Kyoto, Japan",1,Q1-2016
+33.8381042,132.7719116,"Matsuyama, Japan",1,Q1-2016
+34.6775208,135.5129089,"Osaka, Japan",1,Q1-2016
+35.9569016,139.3890076,"Sakado, Japan",1,Q1-2016
+34.3355217,134.047699,"Takamatsu, Japan",1,Q1-2016
+43.7711792,142.3688202,"Asahikawa, Japan",2,
+35.6422997,139.7486572,"Chiyoda, Japan",1,
+35.6610489,139.3341675,"Hachioji, Japan",1,
+34.7194328,137.7301025,"Hamamatsu, Japan",1,
+40.9166794,140.9639282,"Hiranai, Japan",1,
+40.5979729,140.4764862,"Hirosaki, Japan",1,
+36.2816467,139.0772705,"Hiroshimashiminamiku, Japan",1,
+35.6670265,139.4833374,"Fuchu, Japan",1,
+35.3401299,139.4935455,"Fujisawa, Japan",1,
+35.7195625,139.9333954,"Ichikawa, Japan",1,
+38.9240646,141.1363678,"Ichinoseki, Japan",1,
+43.1982765,141.7635803,"Iwamizawa, Japan",1,
+31.8199997,130.8300018,"Kirishima, Japan",1,
+35.6677094,139.8200989,"Koto, Japan",1,
+32.788517,130.7148895,"Kumamoto, Japan",2,
+36.2324486,137.9669647,"Matsumoto, Japan",1,
+37.1857986,139.5160065,"Minamiaizu-Gun, Japan",1,
+35.9500008,136.1925354,"Sabae, Japan",1,
+40.5654182,141.2707672,"Gonohe, Japan",1,
+34.3355217,134.047699,"Takamatsu, Japan",1,
+36.3262215,139.0143585,"Takasaki, Japan",1,
+35.5499992,140.3670044,"Togane , Japan",1,
+34.7191086,136.5168304,"Tsu, Japan",1,
+35.1529388,126.9051514,"Gwangju, Korea, Republic of",1,Q1-2016
+49.5998993,6.1177201,"Luxembourg, Luxembourg",1,Q1-2016
+51.2533989,22.5515995,"Lublin, Poland",1,
+52.2287483,21.0062504,"Warsaw, Poland",1,
+13.5959339,100.7088013,"Samutprakarn, Thailand",2,Q1-2016
+13.7533503,100.5048294,"Bangkok, Thailand",1,
+13.5959339,100.7088013,"Samutprakarn, Thailand",1,
+39.9429016,32.8605003,"Ankara, Turkey",1,Q1-2016
+40.5500984,34.9548187,"Corum, Turkey",1,Q1-2016
+51.4302406,-0.1657,"Tooting, United Kingdom",1,
+10.7782297,106.70327,"Ho Chi Minh City, Vietnam",1,

@@ -1,0 +1,143 @@
+GE_latitude,GE_longitude,GE_n,GE_City,GE_CityState,GE_State,GE_Count
+-27.4171391,152.9497833,KEPERRA,Keperra,"Keperra, Australia", Australia,1
+-23.3742199,150.5036469,ROCKHAMPTON,Rockhampton,"Rockhampton, Australia", Australia,1
+-27.4756203,153.0153809,SOUTH BRISBANE,South Brisbane,"South Brisbane, Australia", Australia,1
+43.9057007,-78.8237991,OSHAWA,Oshawa,"Oshawa, Canada", Canada,1
+38.8995514,121.5577011,DALIAN,Dalian,"Dalian, China", China,1
+35.0371017,104.3860016,DINGXI,Dingxi,"Dingxi, China", China,1
+40.4618607,124.0691833,Fengcheng,Fengcheng,"Fengcheng, China", China,1
+32.0497818,118.7659836,NANJING,Nanjing,"Nanjing, China", China,1
+25.4506302,119.0219803,PUTIAN,Putian,"Putian, China", China,1
+31.2241459,121.5161362,SHANGHAI,Shanghai,"Shanghai, China", China,1
+39.9065704,116.3876495,BEIJING,Beijing,"Beijing, China", China,16
+43.8841515,125.3036804,CHANGCHUN CITY,Changchun City,"Changchun City, China", China,2
+28.1961498,112.9726791,CHANGSHA,Changsha,"Changsha, China", China,1
+30.5785007,103.9469986,CHENGDU,Chengdu,"Chengdu, China", China,1
+31.2159004,107.5009995,DAZHOU,Dazhou,"Dazhou, China", China,1
+37.4424706,116.2857285,DEZHOU,Dezhou,"Dezhou, China", China,2
+23.1133709,113.2552338,GUANGZHOU,Guangzhou,"Guangzhou, China", China,2
+30.2526245,120.1650772,HANGZHOU,Hangzhou,"Hangzhou, China", China,1
+45.7555313,126.6395111,HARBIN,Harbin,"Harbin, China", China,1
+31.8700294,117.2745667,HEFEI,Hefei,"Hefei, China", China,2
+22.3361568,114.1869659,HONGKONG,Hongkong,"Hongkong, China", China,1
+35.87714,119.979332,JIAONAN,Jiaonan,"Jiaonan, China", China,1
+35.4040108,116.5893707,JINING,Jining,"Jining, China", China,1
+36.0699615,103.7502136,LANZHOU,Lanzhou,"Lanzhou, China", China,1
+30.3115997,91.3110962,LASA,Lasa,"Lasa, China", China,1
+41.176384,122.5526962,LIAONING,Liaoning,"Liaoning, China", China,1
+30.3020935,108.9303207,LICHUAN,Lichuan,"Lichuan, China", China,1
+28.68507,115.8953094,NANCHANG,Nanchang,"Nanchang, China", China,1
+32.0497818,118.7659836,NANJING,Nanjing,"Nanjing, China", China,1
+36.1104889,120.35569,QINGDAO,Qingdao,"Qingdao, China", China,3
+35.8996773,115.0994034,QINGFENG,Qingfeng,"Qingfeng, China", China,1
+31.2241459,121.5161362,SHANGHAI,Shanghai,"Shanghai, China", China,2
+28.4514275,117.9561539,SHANGRAO,Shangrao,"Shangrao, China", China,1
+29.9945698,120.5763321,SHAOXING,Shaoxing,"Shaoxing, China", China,1
+22.5562191,114.1187897,SHENZHEN,Shenzhen,"Shenzhen, China", China,1
+31.3092518,120.6131973,SUZHOU,Suzhou,"Suzhou, China", China,1
+35.0753784,117.1615524,TENGZHOU,Tengzhou,"Tengzhou, China", China,1
+39.1449394,117.2005692,Tianjin,Tianjin,"Tianjin, China", China,2
+30.5534954,114.2532578,WUHAN,Wuhan,"Wuhan, China", China,1
+40.6749992,122.2591934,YINGKOU,Yingkou,"Yingkou, China", China,1
+34.8715096,117.5514679,ZAOZHUANG,Zaozhuang,"Zaozhuang, China", China,1
+34.7640305,113.6594086,ZHENGZHOU,Zhengzhou,"Zhengzhou, China", China,2
+36.8028908,118.0453491,ZIBO,Zibo,"Zibo, China", China,2
+27.6983795,106.9104767,ZUNYI,Zunyi,"Zunyi, China", China,1
+29.5509491,106.5193481,CHONGQING,Chongqing,"Chongqing, China", China,1
+38.0436783,114.4923477,SHIJIAZHUANG,Shijiazhuang,"Shijiazhuang, China", China,1
+34.1352806,118.7720718,SHUYANG,Shuyang,"Shuyang, China", China,1
+50.1269188,14.4567204,Prague,Prague,"Prague, Czech Republic", Czech Republic,2
+60.2893715,25.0295601,VANTAA,Vantaa,"Vantaa, Finland", Finland,1
+50.1088982,1.86694,ABBEVILLE,Abbeville,"Abbeville, France", France,1
+48.9057007,2.4674599,BOBIGNY,Bobigny,"Bobigny, France", France,1
+44.4473991,1.4418401,CAHORS,Cahors,"Cahors, France", France,1
+45.7812004,3.1368799,CLERMONT FERRAND,Clermont Ferrand,"Clermont Ferrand, France", France,1
+48.9045982,2.5545299,CLICHY,Clichy,"Clichy, France", France,1
+46.1540985,-1.19252,LA ROCHELLE,La Rochelle,"La Rochelle, France", France,1
+44.0172997,1.35211,MONTAUBAN,Montauban,"Montauban, France", France,1
+48.8569298,2.3412001,PARIS,Paris,"Paris, France", France,2
+48.7885017,2.3634501,VILLEJUIF,Villejuif,"Villejuif, France", France,1
+52.5014076,13.4023285,BERLIN,Berlin,"Berlin, Germany", Germany,1
+35.3292999,25.1240997,HRAKLEIO,Hrakleio,"Hrakleio, Greece", Greece,1
+37.8354988,23.8183994,VARI,Vari,"Vari, Greece", Greece,1
+47.1208496,17.9503708,VESZPREM,Veszprem,"Veszprem, Hungary", Hungary,1
+17.4114094,78.4847794,HYDERABAD,Hyderabad,"Hyderabad, India", India,3
+21.1849899,72.8358994,SURAT,Surat,"Surat, India", India,1
+9.93606,76.2614517,COCHIN,Cochin,"Cochin, India", India,1
+9.9692497,76.2889786,ERNAKULAM,Ernakulam,"Ernakulam, India", India,1
+8.5051098,76.9514084,TRIVANDRUM,Trivandrum,"Trivandrum, India", India,1
+22.6882191,76.0266113,INDORE,Indore,"Indore, India", India,1
+23.09589,80.0495834,JABALPUR,Jabalpur,"Jabalpur, India", India,1
+18.93013,72.8300934,MUMBAI,Mumbai,"Mumbai, India", India,1
+13.0503302,80.188591,CHENNAI,Chennai,"Chennai, India", India,1
+10.7207098,79.1390533,THANJAVUR,Thanjavur,"Thanjavur, India", India,1
+28.5351791,77.3862381,NOIDA,Noida,"Noida, India", India,1
+-6.2255058,106.9730682,BEKASI,Bekasi,"Bekasi, Indonesia", Indonesia,1
+-6.1714902,106.8275223,JAKARTA,Jakarta,"Jakarta, Indonesia", Indonesia,1
+-7.2432561,112.7413788,Surabaya,Surabaya,"Surabaya, Indonesia", Indonesia,3
+41.8567085,16.6969719,ADRIA,Adria,"Adria, Italy", Italy,1
+44.4970016,11.3182001,BOLOGNA,Bologna,"Bologna, Italy", Italy,1
+41.9030495,12.4958,Rome,Rome,"Rome, Italy", Italy,1
+32.3667679,130.1030121,Amakusa,Amakusa,"Amakusa, Japan", Japan,1
+43.7711792,142.3688202,Asahikawa,Asahikawa,"Asahikawa, Japan", Japan,2
+35.6422997,139.7486572,CHIYODA,Chiyoda,"Chiyoda, Japan", Japan,1
+35.6916389,139.8899841,EDOGAWA,Edogawa,"Edogawa, Japan", Japan,1
+34.55373,135.6173706,HABIKINO,Habikino,"Habikino, Japan", Japan,1
+35.6610489,139.3341675,Hachioji,Hachioji,"Hachioji, Japan", Japan,1
+34.7194328,137.7301025,HAMAMATSU,Hamamatsu,"Hamamatsu, Japan", Japan,1
+40.9166794,140.9639282,Hiranai,Hiranai,"Hiranai, Japan", Japan,1
+40.5979729,140.4764862,HIROSAKI,Hirosaki,"Hirosaki, Japan", Japan,1
+34.3838806,132.447937,HIROSHIMA,Hiroshima,"Hiroshima, Japan", Japan,2
+32.4284096,131.6552124,Hiyuuga,Hiyuuga,"Hiyuuga, Japan", Japan,1
+35.6670265,139.4833374,Fuchu,Fuchu,"Fuchu, Japan", Japan,1
+35.3401299,139.4935455,Fujisawa,Fujisawa,"Fujisawa, Japan", Japan,1
+35.4856377,138.8053741,Fujiyoshida,Fujiyoshida,"Fujiyoshida, Japan", Japan,1
+35.7195625,139.9333954,Ichikawa,Ichikawa,"Ichikawa, Japan", Japan,1
+38.9240646,141.1363678,Ichinoseki,Ichinoseki,"Ichinoseki, Japan", Japan,1
+35.7686501,139.6712494,ITABASHI,Itabashi,"Itabashi, Japan", Japan,1
+43.1982765,141.7635803,IWAMIZAWA,Iwamizawa,"Iwamizawa, Japan", Japan,1
+31.8199997,130.8300018,KIRISHIMA,Kirishima,"Kirishima, Japan", Japan,1
+34.4785652,135.4254761,Izumi,Izumi,"Izumi, Japan", Japan,1
+35.6677094,139.8200989,Koto,Koto,"Koto, Japan", Japan,1
+32.788517,130.7148895,KUMAMOTO,Kumamoto,"Kumamoto, Japan", Japan,3
+35.3231506,135.4155884,Kyoto,Kyoto,"Kyoto, Japan", Japan,1
+36.2324486,137.9669647,Matsumoto,Matsumoto,"Matsumoto, Japan", Japan,1
+33.8381042,132.7719116,Matsuyama,Matsuyama,"Matsuyama, Japan", Japan,1
+37.1857986,139.5160065,Minamiaizu-Gun,Minamiaizu-Gun,"Minamiaizu-Gun, Japan", Japan,1
+33.5063019,129.9112396,NAGOYA,Nagoya,"Nagoya, Japan", Japan,1
+34.1818275,134.6033783,NARUTO,Naruto,"Naruto, Japan", Japan,1
+32.5714455,131.6772156,NOBEOKA,Nobeoka,"Nobeoka, Japan", Japan,1
+34.6775208,135.5129089,Osaka,Osaka,"Osaka, Japan", Japan,1
+35.9500008,136.1925354,SABAE,Sabae,"Sabae, Japan", Japan,1
+43.0552521,141.3454742,Sapporo,Sapporo,"Sapporo, Japan", Japan,1
+35.9569016,139.3890076,Sakado,Sakado,"Sakado, Japan", Japan,1
+40.5654182,141.2707672,Gonohe,Gonohe,"Gonohe, Japan", Japan,1
+34.3355217,134.047699,TAKAMATSU,Takamatsu,"Takamatsu, Japan", Japan,2
+36.3262215,139.0143585,TAKASAKI,Takasaki,"Takasaki, Japan", Japan,1
+35.5499992,140.3670044,Togane,Togane,"Togane, Japan", Japan,1
+34.7191086,136.5168304,Tsu,Tsu,"Tsu, Japan", Japan,1
+32.5068359,130.6065063,YATSUSHIRO,Yatsushiro,"Yatsushiro, Japan", Japan,1
+49.5998993,6.1177201,LUXEMBOURG,Luxembourg,"Luxembourg, Luxembourg", Luxembourg,1
+27.6933002,85.3225021,KATHMANDU,Kathmandu,"Kathmandu, Nepal", Nepal,1
+60.737,8.4126,Al,Al,"Al, Norway", Norway,1
+24.9267101,67.0343704,KARACHI,Karachi,"Karachi, Pakistan", Pakistan,1
+7.1034999,122.1957474,Zamboanga,Zamboanga,"Zamboanga, Philippines", Philippines,1
+51.2533989,22.5515995,LUBLIN,Lublin,"Lublin, Poland", Poland,1
+52.2287483,21.0062504,WARSAW,Warsaw,"Warsaw, Poland", Poland,1
+38.7169991,-9.1386404,LISBON,Lisbon,"Lisbon, Portugal", Portugal,1
+39.2193985,-8.6955099,SANTAREM,Santarem,"Santarem, Portugal", Portugal,1
+53.7577209,87.1192398,NOVOKUZNETSK,Novokuznetsk,"Novokuznetsk, Russian Federation", Russian Federation,1
+43.1157188,131.8857574,VLADIVOSTOK,Vladivostok,"Vladivostok, Russian Federation", Russian Federation,1
+24.6472893,46.7146797,RIYADH,Riyadh,"Riyadh, Saudi Arabia", Saudi Arabia,1
+-29.7708874,30.7328396,ASSAGAY,Assagay,"Assagay, South Africa", South Africa,1
+35.1529388,126.9051514,GWANGJU,Gwangju,"Gwangju, South Korea", South Korea,1
+40.2888985,-3.7932,FUENLABRADA,Fuenlabrada,"Fuenlabrada, Spain", Spain,1
+41.4729996,2.08234,SANT CUGAT DEL VALLES,Sant Cugat Del Valles,"Sant Cugat Del Valles, Spain", Spain,1
+13.7533503,100.5048294,BANGKOK,Bangkok,"Bangkok, Thailand", Thailand,1
+13.5371103,99.8143997,Ratburi,Ratburi,"Ratburi, Thailand", Thailand,1
+13.5959339,100.7088013,Samutprakarn,Samutprakarn,"Samutprakarn, Thailand", Thailand,3
+39.9429016,32.8605003,ANKARA,Ankara,"Ankara, Turkey", Turkey,2
+39.7208214,43.0506897,AGRI,Agri,"Agri, Turkey", Turkey,1
+51.4302406,-0.1657,TOOTING,Tooting,"Tooting, United Kingdom", United Kingdom,1
+21.0288906,105.8546371,Hanoi,Hanoi,"Hanoi,",,3
+10.7782297,106.70327,Ho Chi Min City,Ho Chi Min City,"Ho Chi Min City,",,2

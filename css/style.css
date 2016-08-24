@@ -154,9 +154,9 @@ body{
 }
 .legend-control-container {
     width: 250px;
-    /*height: 25px;*/
+    /*height: 185px;*/
     background-color: #333;
-    padding: 10px;
+    padding: 0px;
     line-height: 7px;
     text-align: center;
     /*border: solid gray 1px;*/
@@ -164,12 +164,28 @@ body{
     
 }
 
-.attribute-legend {
+/*.attribute-legend {
     width: 100 px;
-    height: 50 px;
+    height: 100 px;
     opacity: 100%;
-}
+}*/
 
 .legend-circle {
     width:20px;
+    height:200px;
+}
+
+.color-legend-control-container {
+    width: 250px;
+    /*height: 25px;*/
+    background-color: #333;
+    padding: 10px;
+    line-height: 7px;
+    text-align: center;
+    /*border: solid gray 1px;*/
+    color: #fff;
+}
+
+#color-legend {
+    display: inline-block;
 }
