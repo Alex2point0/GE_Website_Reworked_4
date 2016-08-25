@@ -1,331 +1,331 @@
-"latitude,longitude,name,desc,color,source,precision"
-"31.3195896,-86.4954224,""ANDALUSIA, AL"",""Andalusia, AL"",,Bing Maps,city/town"
-"33.4015388,-86.9544067,""BESSEMER, AL"",""Bessemer, AL"",,Bing Maps,city/town"
-"33.5206795,-86.8117599,""BIRMINGHAM, AL"",""Birmingham, AL"",,Bing Maps,city/town"
-"34.7291298,-86.5849762,""HUNTSVILLE, AL"",""Huntsville, AL"",,Bing Maps,city/town"
-"30.6863899,-88.0532379,""MOBILE, AL"",""Mobile, AL"",,Bing Maps,city/town"
-"33.2104912,-87.5659332,""TUSCALOOSA, AL"",""Tuscaloosa, AL"",,Bing Maps,city/town"
-"32.4240494,-85.6897812,""TUSKEGEE, AL"",""Tuskegee, AL"",,Bing Maps,city/town"
-"33.9285812,-87.8165512,""WINFIELD, AL"",""Winfield, AL"",,Bing Maps,city/town"
-"35.3846016,-94.4213028,""FORT SMITH, AR"",""Fort Smith, AR"",,Bing Maps,city/town"
-"36.2286186,-93.1105194,""HARRISON, AR"",""Harrison, AR"",,Bing Maps,city/town"
-"35.0201912,-114.5979919,""FORT MOHAVE, AZ"",""Fort Mohave, AZ"",,Bing Maps,city/town"
-"31.8814697,-110.9952316,""GREEN VALLEY, AZ"",""Green Valley, AZ"",,Bing Maps,city/town"
-"36.7244492,-110.2564697,""KAYENTA, AZ"",""Kayenta, AZ"",,Bing Maps,city/town"
-"34.4739799,-114.3458633,""LAKE HAVASU CITY, AZ"",""Lake Havasu City, AZ"",,Bing Maps,city/town"
-"33.5344009,-112.3622284,""LUKE AFB, AZ"",""Luke Air Force Base, AZ"",,Bing Maps,MilitaryBase"
-"33.4482498,-112.075798,""PHOENIX, AZ"",""Phoenix, AZ"",,Bing Maps,city/town"
-"33.4939995,-111.9206924,""SCOTTSDALE, AZ"",""Scottsdale, AZ"",,Bing Maps,city/town"
-"39.7319984,-121.84198,""CHICO, CA"",""Chico, CA"",,Bing Maps,city/town"
-"41.7528114,-124.2004623,""CRESCENT CITY, CA"",""Crescent City, CA"",,Bing Maps,city/town"
-"38.6817513,-121.1628265,""FOLSOM, CA"",""Folsom, CA"",,Bing Maps,city/town"
-"33.9813995,-118.2191391,""HUNTINGTON PARK, CA"",""Huntington Park, CA"",,Bing Maps,city/town"
-"33.6872406,-117.8258209,""IRVINE, CA"",""Irvine, CA"",,Bing Maps,city/town"
-"32.8370476,-117.2553864,""LA JOLLA, CA"",""La Jolla, CA"",,Bing Maps,Neighborhood"
-"35.6697159,-118.4238052,""LAKE ISABELLA, CA"",""Isabella Lake, CA"",,Bing Maps,Lake"
-"36.6045189,-118.0628128,""LONE PINE, CA"",""Lone Pine, CA"",,Bing Maps,city/town"
-"37.0613899,-120.8475571,""LOS BANOS, CA"",""Los Banos, CA"",,Bing Maps,city/town"
-"33.9165802,-117.2611313,""MORENO VALLEY, CA"",""Moreno Valley, CA"",,Bing Maps,city/town"
-"37.8050804,-122.2730713,""OAKLAND, CA"",""Oakland, CA"",,Bing Maps,city/town"
-"35.6224785,-117.6688614,""RIDGECREST, CA"",""Ridgecrest, CA"",,Bing Maps,city/town"
-"32.7156906,-117.1617203,""SAN DIEGO, CA"",""San Diego, CA"",,Bing Maps,city/town"
-"37.7771187,-122.4196396,""SAN FRANCISCO, CA"",""San Francisco, CA"",,Bing Maps,city/town"
-"37.3385811,-121.8855667,""SAN JOSE, CA"",""San Jose, CA"",,Bing Maps,city/town"
-"35.2855186,-120.6625214,""SAN LUIS OBISPO, CA"",""San Luis Obispo, CA"",,Bing Maps,city/town"
-"37.5470314,-122.314827,""SAN MATEO, CA"",""San Mateo, CA"",,Bing Maps,city/town"
-"34.1503868,-118.4418106,""SHERMAN OAKS, CA"",""Sherman Oaks, CA"",,Bing Maps,Neighborhood"
-"34.18536,-118.8927765,""THOUSAND OAKS, CA"",""Thousand Oaks, CA"",,Bing Maps,city/town"
-"34.1661758,-118.6048813,""WOODLAND HILLS, CA"",""Woodland Hills, CA"",,Bing Maps,Neighborhood"
-"39.8020287,-105.0878372,""ARVADA, CO"",""Arvada, CO"",,Bing Maps,city/town"
-"39.7093201,-104.8145828,""AURORA, CO"",""Aurora, CO"",,Bing Maps,city/town"
-"39.9208603,-105.0705795,""BROOMFIELD, CO"",""Broomfield, CO"",,Bing Maps,city/town"
-"38.819519,-102.3480835,""CHEYENNE WELLS, CO"",""Cheyenne Wells, CO"",,Bing Maps,city/town"
-"38.8334312,-104.8218079,""COLORADO SPRINGS, CO"",""Colorado Springs, CO"",,Bing Maps,city/town"
-"39.7400093,-104.9923019,""DENVER, CO"",""Denver, CO"",,Bing Maps,city/town"
-"39.756649,-105.2249527,""GOLDEN, CO"",""Golden, CO"",,Bing Maps,city/town"
-"38.5449791,-106.926918,""GUNNISON, CO"",""Gunnison, CO"",,Bing Maps,city/town"
-"39.7109184,-105.0820694,""LAKEWOOD, CO"",""Lakewood, CO"",,Bing Maps,city/town"
-"37.3992004,-107.3130035,""LONE TREE, CO"",""Lone Tree Park, CO"",,Bing Maps,Plain"
-"39.9772911,-105.1321182,""LOUISVILLE, CO"",""Louisville, CO"",,Bing Maps,city/town"
-"39.5180397,-104.7543564,""PARKER, CO"",""Parker, CO"",,Bing Maps,city/town"
-"39.8833122,-105.0619049,""WESTMINSTER, CO"",""Westminster, CO"",,Bing Maps,city/town"
-"41.8108788,-72.8296509,""AVON, CT"",""Avon, CT"",,Bing Maps,city/town"
-"41.7121201,-72.8385696,""FARMINGTON, CT"",""Farmington, CT"",,Bing Maps,city/town"
-"41.307621,-72.9246216,""NEW HAVEN, CT"",""New Haven, CT"",,Bing Maps,city/town"
-"41.3226013,-73.1091003,""SHELTON, CT"",""Shelton, CT"",,Bing Maps,city/town"
-"41.234951,-73.2196732,""TRUMBULL, CT"",""Trumbull, CT"",,Bing Maps,city/town"
-"38.8903694,-77.0319595,""WASHINGTON, DC"",""Washington, DC"",,Bing Maps,city/town"
-"39.1580315,-75.5247269,""DOVER, DE"",""Dover, DE"",,Bing Maps,city/town"
-"38.7804298,-75.1307983,""LEWES, DE"",""Lewes, DE"",,Bing Maps,city/town"
-"38.71558,-75.0817795,""REHOBOTH BEACH, DE"",""Rehoboth Beach, DE"",,Bing Maps,city/town"
-"38.6437416,-75.6090469,""SEAFORD, DE"",""Seaford, DE"",,Bing Maps,city/town"
-"25.9686108,-80.1446381,""AVENTURA, FL"",""Aventura, FL"",,Bing Maps,city/town"
-"26.06567,-80.2349472,""DAVIE, FL"",""Davie, FL"",,Bing Maps,city/town"
-"26.0104103,-80.16008,""HOLLYWOOD, FL"",""Hollywood, FL"",,Bing Maps,city/town"
-"30.3314705,-81.6562195,""JACKSONVILLE, FL"",""Jacksonville, FL"",,Bing Maps,city/town"
-"30.1903591,-82.6371231,""LAKE CITY, FL"",""Lake City, FL"",,Bing Maps,city/town"
-"28.0441895,-81.9478607,""LAKELAND, FL"",""Lakeland, FL"",,Bing Maps,city/town"
-"28.0441895,-81.9478607,""LAKELAND, FL"",""Lakeland, FL"",,Bing Maps,city/town"
-"25.7748108,-80.197731,""MIAMI, FL"",""Miami, FL"",,Bing Maps,city/town"
-"29.1875191,-82.1403885,""OCALA, FL"",""Ocala, FL"",,Bing Maps,city/town"
-"26.00811,-80.2801132,""PEMBROKE PINES, FL"",""Pembroke Pines, FL"",,Bing Maps,city/town"
-"30.4208393,-87.2172394,""PENSACOLA, FL"",""Pensacola, FL"",,Bing Maps,city/town"
-"27.2741795,-80.3633118,""PORT SAINT LUCIE, FL"",""Port St Lucie, FL"",,Bing Maps,city/town"
-"27.7711906,-82.6387634,""SAINT PETERSBURG, FL"",""St Petersburg, FL"",,Bing Maps,city/town"
-"28.1797791,-82.6812134,""TRINITY, FL"",""Trinity, FL"",,Bing Maps,city/town"
-"33.4790916,-81.9753113,""AUGUSTA, GA"",""Augusta, GA"",,Bing Maps,city/town"
-"32.1612892,-81.9045105,""CLAXTON, GA"",""Claxton, GA"",,Bing Maps,city/town"
-"31.7149696,-83.2522583,""FITZGERALD, GA"",""Fitzgerald, GA"",,Bing Maps,city/town"
-"31.8510494,-81.583847,""HINESVILLE, GA"",""Hinesville, GA"",,Bing Maps,city/town"
-"33.0897713,-82.0163116,""WAYNESBORO, GA"",""Waynesboro, GA"",,Bing Maps,city/town"
-"19.7192402,-155.0818481,""HILO, HI"",""Hilo, HI"",,Bing Maps,city/town"
-"43.0688705,-94.2274933,""ALGONA, IA"",""Algona, IA"",,Bing Maps,city/town"
-"40.7501297,-92.4136505,""BLOOMFIELD, IA"",""Bloomfield, IA"",,Bing Maps,city/town"
-"41.3031693,-94.460289,""GREENFIELD, IA"",""Greenfield, IA"",,Bing Maps,city/town"
-"42.7857285,-91.1017227,""GUTTENBERG, IA"",""Guttenberg, IA"",,Bing Maps,city/town"
-"42.0157509,-94.3774338,""JEFFERSON, IA"",""Jefferson, IA"",,Bing Maps,city/town"
-"42.0497704,-92.90802,""MARSHALLTOWN, IA"",""Marshalltown, IA"",,Bing Maps,city/town"
-"43.4920006,-112.0419922,""IDAHO FALLS, ID"",""Idaho Falls, ID"",,Bing Maps,city/town"
-"43.8260689,-111.7830887,""REXBURG, ID"",""Rexburg, ID"",,Bing Maps,city/town"
-"41.1542587,-87.877861,""BOURBONNAIS, IL"",""Bourbonnais, IL"",,Bing Maps,city/town"
-"41.4975586,-87.8616867,""FRANKFORT, IL"",""Frankfort, IL"",,Bing Maps,city/town"
-"37.7383614,-88.5401611,""HARRISBURG, IL"",""Harrisburg, IL"",,Bing Maps,city/town"
-"41.2472,-89.9248505,""KEWANEE, IL"",""Kewanee, IL"",,Bing Maps,city/town"
-"41.8675613,-88.0110779,""LOMBARD, IL"",""Lombard, IL"",,Bing Maps,city/town"
-"38.0058212,-88.9097137,""MC LEANSBORO, IL"",""N McLeansboro St, Benton, IL 62812"",,Bing Maps,street"
-"41.5121117,-87.9688721,""NEW LENOX, IL"",""New Lenox, IL"",,Bing Maps,city/town"
-"40.6921387,-89.5877609,""PEORIA, IL"",""Peoria, IL"",,Bing Maps,city/town"
-"41.7940407,-89.698822,""STERLING, IL"",""Sterling, IL"",,Bing Maps,city/town"
-"40.1021614,-85.678688,""ANDERSON, IN"",""Anderson, IN"",,Bing Maps,city/town"
-"39.5251694,-87.1186981,""BRAZIL, IN"",""Brazil, IN"",,Bing Maps,city/town"
-"40.2821312,-86.5107193,""FRANKFORT, IN"",""Frankfort, IN"",,Bing Maps,city/town"
-"39.0924606,-84.8517914,""LAWRENCEBURG, IN"",""Lawrenceburg, IN"",,Bing Maps,city/town"
-"39.4664917,-87.4132309,""TERRE HAUTE, IN"",""Terre Haute, IN"",,Bing Maps,city/town"
-"41.2385597,-85.8527985,""WARSAW, IN"",""Warsaw, IN"",,Bing Maps,city/town"
-"39.3533211,-100.4419403,""HOXIE, KS"",""Hoxie, KS"",,Bing Maps,city/town"
-"37.0323792,-100.925209,""LIBERAL, KS"",""Liberal, KS"",,Bing Maps,city/town"
-"39.1788101,-96.5618362,""MANHATTAN, KS"",""Manhattan, KS"",,Bing Maps,city/town"
-"38.98489,-94.6716766,""OVERLAND PARK, KS"",""Overland Park, KS"",,Bing Maps,city/town"
-"37.5770607,-101.3633575,""ULYSSES, KS"",""Ulysses, KS"",,Bing Maps,city/town"
-"37.6869812,-97.3355789,""WICHITA, KS"",""Wichita, KS"",,Bing Maps,city/town"
-"36.8575096,-88.3507614,""BENTON, KY"",""Benton, KY"",,Bing Maps,city/town"
-"36.9946213,-86.4455795,""BOWLING GREEN, KY"",""Bowling Green, KY"",,Bing Maps,city/town"
-"38.1950684,-84.8786926,""FRANKFORT, KY"",""Frankfort, KY"",,Bing Maps,city/town"
-"37.0857086,-88.5958481,""PADUCAH, KY"",""Paducah, KY"",,Bing Maps,city/town"
-"37.9928017,-84.1792297,""WINCHESTER, KY"",""Winchester, KY"",,Bing Maps,city/town"
-"31.3126602,-92.4456787,""ALEXANDRIA, LA"",""Alexandria, LA"",,Bing Maps,city/town"
-"30.4433403,-91.1869888,""BATON ROUGE, LA"",""Baton Rouge, LA"",,Bing Maps,city/town"
-"32.2436295,-92.7116699,""JONESBORO, LA"",""Jonesboro, LA"",,Bing Maps,city/town"
-"30.2203197,-92.0170517,""LAFAYETTE, LA"",""Lafayette, LA"",,Bing Maps,city/town"
-"30.0051308,-91.8175888,""NEW IBERIA, LA"",""New Iberia, LA"",,Bing Maps,city/town"
-"29.7955208,-90.8225327,""THIBODAUX, LA"",""Thibodaux, LA"",,Bing Maps,city/town"
-"42.5477409,-70.8789825,""BEVERLY, MA"",""Beverly, MA"",,Bing Maps,city/town"
-"42.3586617,-71.0567398,""BOSTON, MA"",""Boston, MA"",,Bing Maps,city/town"
-"42.1961517,-73.3610916,""GREAT BARRINGTON, MA"",""Great Barrington, MA"",,Bing Maps,city/town"
-"41.654789,-70.2796326,""HYANNIS, MA"",""Hyannis, MA"",,Bing Maps,city/town"
-"42.3468018,-71.5479889,""MARLBOROUGH, MA"",""Marlborough, MA"",,Bing Maps,city/town"
-"42.5223999,-70.895813,""SALEM, MA"",""Salem, MA"",,Bing Maps,city/town"
-"38.7738991,-76.0747528,""EASTON, MD"",""Easton, MD"",,Bing Maps,city/town"
-"38.5398216,-76.584198,""PRINCE FREDERICK, MD"",""Prince Frederick, MD"",,Bing Maps,city/town"
-"39.0816612,-77.1512375,""ROCKVILLE, MD"",""Rockville, MD"",,Bing Maps,city/town"
-"39.3999405,-76.6053619,""TOWSON, MD"",""Towson, MD"",,Bing Maps,city/town"
-"44.0321083,-69.5299988,""DAMARISCOTTA, ME"",""Damariscotta, ME"",,Bing Maps,city/town"
-"43.6591415,-70.2566528,""PORTLAND, ME"",""Portland, ME"",,Bing Maps,city/town"
-"41.8972511,-84.0362473,""ADRIAN, MI"",""Adrian, MI"",,Bing Maps,city/town"
-"42.3316803,-83.0479965,""DETROIT, MI"",""Detroit, MI"",,Bing Maps,city/town"
-"42.5114288,-84.6558304,""EATON RAPIDS, MI"",""Eaton Rapids, MI"",,Bing Maps,city/town"
-"42.7730904,-86.1017609,""HOLLAND, MI"",""Holland, MI"",,Bing Maps,city/town"
-"42.6834183,-83.1370163,""ROCHESTER, MI"",""Rochester, MI"",,Bing Maps,city/town"
-"43.4191818,-83.9466705,""SAGINAW, MI"",""Saginaw, MI"",,Bing Maps,city/town"
-"42.5623703,-83.1544876,""TROY, MI"",""Troy, MI"",,Bing Maps,city/town"
-"42.5111084,-83.0285187,""WARREN, MI"",""Warren, MI"",,Bing Maps,city/town"
-"44.5065689,-96.4243011,""HENDRICKS, MN"",""Hendricks, MN"",,Bing Maps,city/town"
-"45.5864296,-95.9144516,""MORRIS, MN"",""Morris, MN"",,Bing Maps,city/town"
-"45.1218987,-95.0432968,""WILLMAR, MN"",""Willmar, MN"",,Bing Maps,city/town"
-"39.102951,-94.5830765,""KANSAS CITY, MO"",""Kansas City, MO"",,Bing Maps,city/town"
-"40.3474503,-94.8729095,""MARYVILLE, MO"",""Maryville, MO"",,Bing Maps,city/town"
-"37.6367683,-91.5356293,""SALEM, MO"",""Salem, MO"",,Bing Maps,city/town"
-"38.6277504,-90.1995621,""ST LOUIS, MO"",""St Louis, MO"",,Bing Maps,city/town"
-"38.8115387,-90.8539505,""WENTZVILLE, MO"",""Wentzville, MO"",,Bing Maps,city/town"
-"36.7311211,-91.8530731,""WEST PLAINS, MO"",""West Plains, MO"",,Bing Maps,city/town"
-"34.1945686,-90.5649185,""CLARKSDALE, MS"",""Clarksdale, MS"",,Bing Maps,city/town"
-"31.8597393,-90.3940125,""HAZLEHURST, MS"",""Hazlehurst, MS"",,Bing Maps,city/town"
-"32.2986908,-90.1804886,""JACKSON, MS"",""Jackson, MS"",,Bing Maps,city/town"
-"34.2574081,-88.7078323,""TUPELO, MS"",""Tupelo, MS"",,Bing Maps,city/town"
-"48.4944,-112.2340012,""CUT BANK, MT"",""Cut Bank, MT"",,Bing Maps,Cliff"
-"47.5071411,-111.3060684,""GREAT FALLS, MT"",""Great Falls, MT"",,Bing Maps,city/town"
-"46.8727798,-113.9962311,""MISSOULA, MT"",""Missoula, MT"",,Bing Maps,city/town"
-"47.4598312,-114.8828506,""PLAINS, MT"",""Plains, MT"",,Bing Maps,city/town"
-"35.5984612,-82.5531387,""ASHEVILLE, NC"",""Asheville, NC"",,Bing Maps,city/town"
-"34.7257004,-77.3440933,""CAMP LEJEUNE, NC"",""Camp Lejeune, NC"",,Bing Maps,city/town"
-"35.2228584,-80.8379593,""CHARLOTTE, NC"",""Charlotte, NC"",,Bing Maps,city/town"
-"34.2654305,-78.6550827,""COLUMBUS, NC"",Columbus,,Bing Maps,county/district"
-"35.9954185,-78.8964386,""DURHAM, NC"",""Durham, NC"",,Bing Maps,city/town"
-"35.0544891,-78.8775787,""FAYETTEVILLE, NC"",""Fayetteville, NC"",,Bing Maps,city/town"
-"35.3155708,-82.4586563,""HENDERSONVILLE, NC"",""Hendersonville, NC"",,Bing Maps,city/town"
-"36.1195183,-80.0725098,""KERNERSVILLE, NC"",""Kernersville, NC"",,Bing Maps,city/town"
-"35.242691,-81.3457336,""KINGS MOUNTAIN, NC"",""Kings Mountain, NC"",,Bing Maps,city/town"
-"35.6843109,-82.0083771,""MARION, NC"",""Marion, NC"",,Bing Maps,city/town"
-"36.4990501,-80.6068802,""MOUNT AIRY, NC"",""Mount Airy, NC"",,Bing Maps,city/town"
-"34.9785881,-79.2240295,""RAEFORD, NC"",""Raeford, NC"",,Bing Maps,city/town"
-"35.785511,-78.6426697,""RALEIGH, NC"",""Raleigh, NC"",,Bing Maps,city/town"
-"35.9169807,-82.072731,""SPRUCE PINE, NC"",""Spruce Pine, NC"",,Bing Maps,city/town"
-"35.9069519,-77.5407562,""TARBORO, NC"",""Tarboro, NC"",,Bing Maps,city/town"
-"34.9247589,-80.7431793,""WAXHAW, NC"",""Waxhaw, NC"",,Bing Maps,city/town"
-"34.2349701,-77.9459915,""WILMINGTON, NC"",""Wilmington, NC"",,Bing Maps,city/town"
-"40.0587616,-95.6011505,""FALLS CITY, NE"",""Falls City, NE"",,Bing Maps,city/town"
-"40.0960808,-98.9542313,""FRANKLIN, NE"",""Franklin, NE"",,Bing Maps,city/town"
-"42.8141708,-102.2031708,""GORDON, NE"",""Gordon, NE"",,Bing Maps,city/town"
-"41.1448593,-102.9761429,""SIDNEY, NE"",""Sidney, NE"",,Bing Maps,city/town"
-"43.4240913,-72.0034103,""NEW LONDON, NH"",""New London, NH"",,Bing Maps,city/town"
-"43.0706215,-70.7721176,""PORTSMOUTH, NH"",""Portsmouth, NH"",,Bing Maps,city/town"
-"40.7951508,-74.1493988,""BELLEVILLE, NJ"",""Belleville, NJ"",,Bing Maps,city/town"
-"40.2585297,-74.2765121,""FREEHOLD, NJ"",""Freehold, NJ"",,Bing Maps,city/town"
-"40.2303581,-74.7238617,""HAMILTON, NJ"",""Hamilton Township, NJ"",,Bing Maps,city/town"
-"40.0932503,-74.2135773,""LAKEWOOD, NJ"",""Lakewood, NJ"",,Bing Maps,city/town"
-"40.3037605,-73.9933701,""LONG BRANCH, NJ"",""Long Branch, NJ"",,Bing Maps,city/town"
-"40.7930107,-74.4771271,""MORRISTOWN, NJ"",""Morristown, NJ"",,Bing Maps,city/town"
-"39.9929695,-74.7883987,""MOUNT HOLLY, NJ"",""Mt Holly Township, NJ"",,Bing Maps,city/town"
-"41.0585594,-74.7531891,""NEWTON, NJ"",""Newton, NJ"",,Bing Maps,city/town"
-"40.6043396,-74.2743607,""RAHWAY, NJ"",""Rahway, NJ"",,Bing Maps,city/town"
-"40.5707016,-74.6193924,""SOMERVILLE, NJ"",""Somerville, NJ"",,Bing Maps,city/town"
-"39.9528809,-74.1937866,""TOMS RIVER, NJ"",""Toms River, NJ"",,Bing Maps,city/town"
-"39.8549995,-74.9837723,""VOORHEES, NJ"",""Voorhees, NJ"",,Bing Maps,city/town"
-"35.8806381,-106.30439,""LOS ALAMOS, NM"",""Los Alamos, NM"",,Bing Maps,city/town"
-"35.6916809,-105.9379578,""SANTA FE, NM"",""Santa Fe, NM"",,Bing Maps,city/town"
-"36.7853699,-108.6834106,""SHIPROCK, NM"",""Shiprock, NM"",,Bing Maps,city/town"
-"39.5273819,-119.8134384,""RENO, NV"",""Reno, NV"",,Bing Maps,city/town"
-"42.6515503,-73.7552109,""ALBANY, NY"",""Albany, NY"",,Bing Maps,city/town"
-"42.9670105,-74.1922226,""AMSTERDAM, NY"",""Amsterdam, NY"",,Bing Maps,city/town"
-"41.1194115,-73.7083817,""ARMONK, NY"",""Armonk, NY"",,Bing Maps,city/town"
-"42.8854408,-78.8784637,""BUFFALO, NY"",""Buffalo, NY"",,Bing Maps,city/town"
-"40.8471298,-73.2914429,""COMMACK, NY"",""Commack, NY"",,Bing Maps,city/town"
-"40.7152443,-73.8451767,""FOREST HILLS, NY"",""Forest Hills, NY"",,Bing Maps,Neighborhood"
-"40.8606987,-73.3644409,""GREENLAWN, NY"",""Greenlawn, NY"",,Bing Maps,city/town"
-"40.8729401,-72.5200272,""HAMPTON BAYS, NY"",""Hampton Bays, NY"",,Bing Maps,city/town"
-"40.7623672,-73.9244385,""LONG ISLAND CITY, NY"",""Long Island City, NY"",,Bing Maps,Neighborhood"
-"40.872879,-72.8057404,""MANORVILLE, NY"",""Manorville, NY"",,Bing Maps,city/town"
-"40.7820015,-73.8317032,""NEW YORK, NY"",""New York, NY"",,Bing Maps,city/town"
-"41.0912704,-73.9181595,""NYACK, NY"",""Nyack, NY"",,Bing Maps,city/town"
-"42.0979118,-78.3958435,""OLEAN, NY"",""Olean, NY"",,Bing Maps,city/town"
-"40.7140007,-73.8299866,""QUEENS, NY"",""Queens, NY"",,Bing Maps,city/town"
-"40.9183006,-72.6685104,""RIVERHEAD, NY"",""Riverhead, NY"",,Bing Maps,city/town"
-"43.1557999,-77.6163177,""ROCHESTER, NY"",""Rochester, NY"",,Bing Maps,city/town"
-"40.8880081,-72.3850708,""SOUTHAMPTON, NY"",""Southampton, NY"",,Bing Maps,city/town"
-"40.6424408,-74.0752792,""STATEN ISLAND, NY"",""Staten Island, NY"",,Bing Maps,city/town"
-"40.9128304,-73.1399231,""STONY BROOK, NY"",""Stony Brook, NY"",,Bing Maps,city/town"
-"41.0243607,-80.6597824,""BOARDMAN, OH"",""Boardman, OH"",,Bing Maps,city/town"
-"40.0247803,-81.5901108,""CAMBRIDGE, OH"",""Cambridge, OH"",,Bing Maps,city/town"
-"39.9619904,-83.0027466,""COLUMBUS, OH"",""Columbus, OH"",,Bing Maps,city/town"
-"41.2862396,-84.362381,""DEFIANCE, OH"",""Defiance, OH"",,Bing Maps,city/town"
-"41.1556816,-83.4123535,""FOSTORIA, OH"",""Fostoria, OH"",,Bing Maps,city/town"
-"40.6478119,-83.6079712,""KENTON, OH"",""Kenton, OH"",,Bing Maps,city/town"
-"41.5633507,-83.6541672,""MAUMEE, OH"",""Maumee, OH"",,Bing Maps,city/town"
-"41.3919907,-84.1258392,""NAPOLEON, OH"",""Napoleon, OH"",,Bing Maps,city/town"
-"41.6524506,-83.4227905,""OREGON, OH"",""Oregon, OH"",,Bing Maps,city/town"
-"39.8840408,-82.7534332,""PICKERINGTON, OH"",""Pickerington, OH"",,Bing Maps,city/town"
-"39.9250183,-83.8067322,""SPRINGFIELD, OH"",""Springfield, OH"",,Bing Maps,city/town"
-"41.7155685,-83.7042465,""SYLVANIA, OH"",""Sylvania, OH"",,Bing Maps,city/town"
-"41.6538086,-83.5362625,""TOLEDO, OH"",""Toledo, OH"",,Bing Maps,city/town"
-"40.0398903,-84.2039032,""TROY, OH"",""Troy, OH"",,Bing Maps,city/town"
-"41.2361984,-80.8127975,""WARREN, OH"",""Warren, OH"",,Bing Maps,city/town"
-"34.6378288,-99.3332596,""ALTUS, OK"",""Altus, OK"",,Bing Maps,city/town"
-"35.6548996,-97.4781265,""EDMOND, OK"",""Edmond, OK"",,Bing Maps,city/town"
-"35.3382607,-97.485611,""MOORE, OK"",""Moore, OK"",,Bing Maps,city/town"
-"35.4720306,-97.5210724,""OKLAHOMA CITY, OK"",""Oklahoma City, OK"",,Bing Maps,city/town"
-"45.506279,-122.4353409,""GRESHAM, OR"",""Gresham, OR"",,Bing Maps,city/town"
-"42.2238808,-121.7820587,""KLAMATH FALLS, OR"",""Klamath Falls, OR"",,Bing Maps,city/town"
-"45.3003006,-122.9753571,""NEWBERG, OR"",""Newberg, OR"",,Bing Maps,city/town"
-"45.3365097,-122.5927811,""OREGON CITY, OR"",""Oregon City, OR"",,Bing Maps,city/town"
-"45.5117912,-122.6756287,""PORTLAND, OR"",""Portland, OR"",,Bing Maps,city/town"
-"43.2108803,-123.3432312,""ROSEBURG, OR"",""Roseburg, OR"",,Bing Maps,city/town"
-"45.6015511,-121.1834335,""THE DALLES, OR"",""The Dalles, OR"",,Bing Maps,city/town"
-"40.3299713,-76.5175095,""ANNVILLE, PA"",""Annville, PA"",,Bing Maps,city/town"
-"40.6821518,-80.349411,""BEAVER, PA"",Beaver,,Bing Maps,county/district"
-"41.1604996,-79.0801773,""BROOKVILLE, PA"",""Brookville, PA"",,Bing Maps,city/town"
-"39.9819412,-75.8206329,""COATESVILLE, PA"",""Coatesville, PA"",,Bing Maps,city/town"
-"42.1294403,-80.0852432,""ERIE, PA"",""Erie, PA"",,Bing Maps,city/town"
-"40.2992401,-79.5431595,""GREENSBURG, PA"",""Greensburg, PA"",,Bing Maps,city/town"
-"40.5968895,-77.5739365,""LEWISTOWN, PA"",""Lewistown, PA"",,Bing Maps,city/town"
-"40.662958,-76.92579,""MC KEES ROCKS, PA"",""McKees Rd, Port Trevorton, PA 17864"",,Bing Maps,street"
-"40.3298912,-79.730751,""NORTH HUNTINGDON, PA"",""North Huntingdon Township, PA"",,Bing Maps,city/town"
-"39.9522781,-75.1624527,""PHILADELPHIA, PA"",""Philadelphia, PA"",,Bing Maps,city/town"
-"40.5381088,-80.180191,""SEWICKLEY, PA"",""Sewickley, PA"",,Bing Maps,city/town"
-"39.8221588,-75.826683,""WEST GROVE, PA"",""West Grove, PA"",,Bing Maps,city/town"
-"34.5004387,-82.6495819,""ANDERSON, SC"",""Anderson, SC"",,Bing Maps,city/town"
-"35.0736198,-81.6486588,""GAFFNEY, SC"",""Gaffney, SC"",,Bing Maps,city/town"
-"33.1964912,-80.0126877,""MONCKS CORNER, SC"",""Moncks Corner, SC"",,Bing Maps,city/town"
-"34.9482498,-81.9348679,""SPARTANBURG, SC"",""Spartanburg, SC"",,Bing Maps,city/town"
-"44.0072098,-97.1103897,""MADISON, SD"",""Madison, SD"",,Bing Maps,city/town"
-"35.0464401,-85.3094635,""CHATTANOOGA, TN"",""Chattanooga, TN"",,Bing Maps,city/town"
-"36.5307503,-87.3597717,""CLARKSVILLE, TN"",""Clarksville, TN"",,Bing Maps,city/town"
-"36.0764389,-87.387413,""DICKSON, TN"",""Dickson, TN"",,Bing Maps,city/town"
-"34.9967117,-85.2437668,""EAST RIDGE, TN"",""East Ridge, TN"",,Bing Maps,city/town"
-"36.3878212,-86.4462204,""GALLATIN, TN"",""Gallatin, TN"",,Bing Maps,city/town"
-"36.2151604,-86.6082458,""HERMITAGE, TN"",""The Hermitage, TN"",,Bing Maps,LandmarkBuilding"
-"35.9604912,-83.9209137,""KNOXVILLE, TN"",""Knoxville, TN"",,Bing Maps,city/town"
-"36.1379509,-88.5095139,""MC KENZIE, TN"",""McKenzie, TN"",,Bing Maps,city/town"
-"36.1678391,-86.7781601,""NASHVILLE, TN"",""Nashville, TN"",,Bing Maps,city/town"
-"35.974659,-86.5121307,""SMYRNA, TN"",""Smyrna, TN"",,Bing Maps,city/town"
-"27.7505798,-98.065712,""ALICE, TX"",""Alice, TX"",,Bing Maps,city/town"
-"30.2675896,-97.7429886,""AUSTIN, TX"",""Austin, TX"",,Bing Maps,city/town"
-"30.0861492,-94.1015778,""BEAUMONT, TX"",""Beaumont, TX"",,Bing Maps,city/town"
-"28.4020405,-97.7493591,""BEEVILLE, TX"",""Beeville, TX"",,Bing Maps,city/town"
-"31.1921902,-101.4673004,""BIG LAKE, TX"",""Big Lake, TX"",,Bing Maps,city/town"
-"30.6709805,-96.3704224,""BRYAN, TX"",""Bryan, TX"",,Bing Maps,city/town"
-"32.5631104,-97.3218231,""BURLESON, TX"",""Burleson, TX"",,Bing Maps,city/town"
-"32.987999,-96.9005737,""CARROLLTON, TX"",""Carrollton, TX"",,Bing Maps,city/town"
-"32.3503914,-97.3876038,""CLEBURNE, TX"",""Cleburne, TX"",,Bing Maps,city/town"
-"27.7964096,-97.4035568,""CORPUS CHRISTI, TX"",""Corpus Christi, TX"",,Bing Maps,city/town"
-"29.97579,-95.6779175,""CYPRESS, TX"",""Cypress, TX"",,Bing Maps,city/town"
-"32.7781487,-96.7954025,""DALLAS, TX"",""Dallas, TX"",,Bing Maps,city/town"
-"31.7591591,-106.4874878,""EL PASO, TX"",""El Paso, TX"",,Bing Maps,city/town"
-"32.7509499,-97.3308563,""FORT WORTH, TX"",""Fort Worth, TX"",,Bing Maps,city/town"
-"32.4423485,-97.7942581,""GRANBURY, TX"",""Granbury, TX"",,Bing Maps,city/town"
-"29.3475609,-99.1411133,""HONDO, TX"",""Hondo, TX"",,Bing Maps,city/town"
-"29.7604504,-95.3697815,""HOUSTON, TX"",""Houston, TX"",,Bing Maps,city/town"
-"32.5995598,-96.2878571,""KAUFMAN, TX"",Kaufman,,Bing Maps,county/district"
-"27.5157299,-97.8554306,""KINGSVILLE, TX"",""Kingsville, TX"",,Bing Maps,city/town"
-"30.5791206,-97.8530426,""LEANDER, TX"",""Leander, TX"",,Bing Maps,city/town"
-"33.0472183,-96.9959335,""LEWISVILLE, TX"",""Lewisville, TX"",,Bing Maps,city/town"
-"29.6804409,-97.6468506,""LULING, TX"",""Luling, TX"",,Bing Maps,city/town"
-"26.2074203,-98.2293625,""MCALLEN, TX"",""McAllen, TX"",,Bing Maps,city/town"
-"31.6035805,-94.6556168,""NACOGDOCHES, TX"",""Nacogdoches, TX"",,Bing Maps,city/town"
-"33.7864685,-97.7274704,""NOCONA, TX"",""Nocona, TX"",,Bing Maps,city/town"
-"29.55093,-95.2568665,""PEARLAND, TX"",""Pearland, TX"",,Bing Maps,city/town"
-"33.0207901,-96.6992493,""PLANO, TX"",""Plano, TX"",,Bing Maps,city/town"
-"29.4245796,-98.4946136,""SAN ANTONIO, TX"",""San Antonio, TX"",,Bing Maps,city/town"
-"30.0845299,-95.4192886,""SPRING, TX"",""Spring, TX"",,Bing Maps,city/town"
-"29.3927593,-94.9250717,""TEXAS CITY, TX"",""Texas City, TX"",,Bing Maps,city/town"
-"30.1575203,-95.4557724,""THE WOODLANDS, TX"",""The Woodlands, TX"",,Bing Maps,city/town"
-"29.5333595,-95.1191406,""WEBSTER, TX"",""Webster, TX"",,Bing Maps,city/town"
-"41.0659294,-111.9610214,""LAYTON, UT"",""Layton, UT"",,Bing Maps,city/town"
-"40.2967491,-109.9895706,""ROOSEVELT, UT"",""Roosevelt, UT"",,Bing Maps,city/town"
-"40.7603111,-111.8882217,""SALT LAKE CITY, UT"",""Salt Lake City, UT"",,Bing Maps,city/town"
-"30.2786598,-97.731102,""TAYLORSVILLE, UT"",""University of Texas at Austin, TX"",,Bing Maps,HigherEducationFacility"
-"37.3785019,-77.585907,""CHESTERFIELD, VA"",Chesterfield,,Bing Maps,county/district"
-"38.9555893,-77.4493027,""DULLES, VA"",""Dulles International Airport, VA"",,Bing Maps,Airport"
-"38.8417892,-77.3088684,""FAIRFAX, VA"",""Fairfax, VA"",,Bing Maps,city/town"
-"37.0277901,-76.3451233,""HAMPTON, VA"",""Hampton, VA"",,Bing Maps,city/town"
-"37.50354,-77.6512604,""MIDLOTHIAN, VA"",""Midlothian, VA"",,Bing Maps,city/town"
-"38.9596786,-77.354538,""RESTON, VA"",""Reston, VA"",,Bing Maps,city/town"
-"37.540699,-77.4336472,""RICHMOND, VA"",""Richmond, VA"",,Bing Maps,city/town"
-"37.2936516,-80.0531387,""SALEM, VA"",""Salem, VA"",,Bing Maps,city/town"
-"36.7550201,-76.0591965,""VIRGINIA BEACH, VA"",""Virginia Beach, VA"",,Bing Maps,city/town"
-"39.1839981,-78.1640472,""WINCHESTER, VA"",""Winchester, VA"",,Bing Maps,city/town"
-"38.8902092,-78.4984894,""WOODSTOCK, VA"",""Woodstock, VA"",,Bing Maps,city/town"
-"36.9498405,-81.0835266,""WYTHEVILLE, VA"",""Wytheville, VA"",,Bing Maps,city/town"
-"47.3011284,-122.3298492,""FEDERAL WAY, WA"",""Federal Way, WA"",,Bing Maps,city/town"
-"46.2066002,-119.7690277,""PROSSER, WA"",""Prosser, WA"",,Bing Maps,city/town"
-"47.603569,-122.3294525,""SEATTLE, WA"",""Seattle, WA"",,Bing Maps,city/town"
-"46.3237915,-120.0093536,""SUNNYSIDE, WA"",""Sunnyside, WA"",,Bing Maps,city/town"
-"46.6041298,-120.5070496,""YAKIMA, WA"",""Yakima, WA"",,Bing Maps,city/town"
-"44.0289116,-88.1649399,""CHILTON, WI"",""Chilton, WI"",,Bing Maps,city/town"
-"42.8474998,-90.7096329,""LANCASTER, WI"",""Lancaster, WI"",,Bing Maps,city/town"
-"43.042469,-89.4039688,""MADISON, WI"",""Madison, WI"",,Bing Maps,city/town"
-"43.0418091,-87.9068375,""MILWAUKEE, WI"",""Milwaukee, WI"",,Bing Maps,city/town"
-"42.8588905,-88.3293304,""MUKWONAGO, WI"",""Mukwonago, WI"",,Bing Maps,city/town"
-"42.7252083,-87.7904129,""RACINE, WI"",""Racine, WI"",,Bing Maps,city/town"
-"43.0145798,-88.2354813,""WAUKESHA, WI"",""Waukesha, WI"",,Bing Maps,city/town"
-"43.0166588,-88.0063095,""WEST ALLIS, WI"",""West Allis, WI"",,Bing Maps,city/town"
-"37.7943497,-80.3001633,""WHITE SULPHUR SPRINGS, WV"",""White Sulphur Springs, WV"",,Bing Maps,city/town"
+GE_City	GE_Count	latitude	longitude	name	desc	color	source	precision		
+"Andalusia,  AL"	1	31.3195896	-86.4954224	ANDALUSIA	 AL	Andalusia	 AL		Bing Maps	city/town
+"Bessemer,  AL"	1	33.4015388	-86.9544067	BESSEMER	 AL	Bessemer	 AL		Bing Maps	city/town
+"Birmingham,  AL"	4	33.5206795	-86.8117599	BIRMINGHAM	 AL	Birmingham	 AL		Bing Maps	city/town
+"Huntsville,  AL"	2	34.7291298	-86.5849762	HUNTSVILLE	 AL	Huntsville	 AL		Bing Maps	city/town
+"Mobile,  AL"	3	30.6863899	-88.0532379	MOBILE	 AL	Mobile	 AL		Bing Maps	city/town
+"Tuscaloosa,  AL"	1	33.2104912	-87.5659332	TUSCALOOSA	 AL	Tuscaloosa	 AL		Bing Maps	city/town
+"Tuskegee,  AL"	1	32.4240494	-85.6897812	TUSKEGEE	 AL	Tuskegee	 AL		Bing Maps	city/town
+"Winfield,  AL"	1	33.9285812	-87.8165512	WINFIELD	 AL	Winfield	 AL		Bing Maps	city/town
+"Fort Smith,  AR"	1	35.3846016	-94.4213028	FORT SMITH	 AR	Fort Smith	 AR		Bing Maps	city/town
+"Harrison,  AR"	1	36.2286186	-93.1105194	HARRISON	 AR	Harrison	 AR		Bing Maps	city/town
+"Fort Mohave,  AZ"	1	35.0201912	-114.5979919	FORT MOHAVE	 AZ	Fort Mohave	 AZ		Bing Maps	city/town
+"Green Valley,  AZ"	1	31.8814697	-110.9952316	GREEN VALLEY	 AZ	Green Valley	 AZ		Bing Maps	city/town
+"Kayenta,  AZ"	1	36.7244492	-110.2564697	KAYENTA	 AZ	Kayenta	 AZ		Bing Maps	city/town
+"Lake Havasu City,  AZ"	1	34.4739799	-114.3458633	LAKE HAVASU CITY	 AZ	Lake Havasu City	 AZ		Bing Maps	city/town
+"Luke Air Force Base,  AZ"	2	33.5344009	-112.3622284	LUKE AFB	 AZ	Luke Air Force Base	 AZ		Bing Maps	MilitaryBase
+"Phoenix,  AZ"	2	33.4482498	-112.075798	PHOENIX	 AZ	Phoenix	 AZ		Bing Maps	city/town
+"Scottsdale,  AZ"	1	33.4939995	-111.9206924	SCOTTSDALE	 AZ	Scottsdale	 AZ		Bing Maps	city/town
+"Chico,  CA"	1	39.7319984	-121.84198	CHICO	 CA	Chico	 CA		Bing Maps	city/town
+"Crescent City,  CA"	1	41.7528114	-124.2004623	CRESCENT CITY	 CA	Crescent City	 CA		Bing Maps	city/town
+"Folsom,  CA"	1	38.6817513	-121.1628265	FOLSOM	 CA	Folsom	 CA		Bing Maps	city/town
+"Huntington Park,  CA"	1	33.9813995	-118.2191391	HUNTINGTON PARK	 CA	Huntington Park	 CA		Bing Maps	city/town
+"Irvine,  CA"	1	33.6872406	-117.8258209	IRVINE	 CA	Irvine	 CA		Bing Maps	city/town
+"La Jolla,  CA"	1	32.8370476	-117.2553864	LA JOLLA	 CA	La Jolla	 CA		Bing Maps	Neighborhood
+"Isabella Lake,  CA"	1	35.6697159	-118.4238052	LAKE ISABELLA	 CA	Isabella Lake	 CA		Bing Maps	Lake
+"Lone Pine,  CA"	1	36.6045189	-118.0628128	LONE PINE	 CA	Lone Pine	 CA		Bing Maps	city/town
+"Los Banos,  CA"	1	37.0613899	-120.8475571	LOS BANOS	 CA	Los Banos	 CA		Bing Maps	city/town
+"Moreno Valley,  CA"	1	33.9165802	-117.2611313	MORENO VALLEY	 CA	Moreno Valley	 CA		Bing Maps	city/town
+"Oakland,  CA"	2	37.8050804	-122.2730713	OAKLAND	 CA	Oakland	 CA		Bing Maps	city/town
+"Ridgecrest,  CA"	1	35.6224785	-117.6688614	RIDGECREST	 CA	Ridgecrest	 CA		Bing Maps	city/town
+"San Diego,  CA"	3	32.7156906	-117.1617203	SAN DIEGO	 CA	San Diego	 CA		Bing Maps	city/town
+"San Francisco,  CA"	1	37.7771187	-122.4196396	SAN FRANCISCO	 CA	San Francisco	 CA		Bing Maps	city/town
+"San Jose,  CA"	2	37.3385811	-121.8855667	SAN JOSE	 CA	San Jose	 CA		Bing Maps	city/town
+"San Luis Obispo,  CA"	1	35.2855186	-120.6625214	SAN LUIS OBISPO	 CA	San Luis Obispo	 CA		Bing Maps	city/town
+"San Mateo,  CA"	1	37.5470314	-122.314827	SAN MATEO	 CA	San Mateo	 CA		Bing Maps	city/town
+"Sherman Oaks,  CA"	1	34.1503868	-118.4418106	SHERMAN OAKS	 CA	Sherman Oaks	 CA		Bing Maps	Neighborhood
+"Thousand Oaks,  CA"	1	34.18536	-118.8927765	THOUSAND OAKS	 CA	Thousand Oaks	 CA		Bing Maps	city/town
+"Woodland Hills,  CA"	1	34.1661758	-118.6048813	WOODLAND HILLS	 CA	Woodland Hills	 CA		Bing Maps	Neighborhood
+"Arvada,  CO"	1	39.8020287	-105.0878372	ARVADA	 CO	Arvada	 CO		Bing Maps	city/town
+"Aurora,  CO"	1	39.7093201	-104.8145828	AURORA	 CO	Aurora	 CO		Bing Maps	city/town
+"Broomfield,  CO"	1	39.9208603	-105.0705795	BROOMFIELD	 CO	Broomfield	 CO		Bing Maps	city/town
+"Cheyenne Wells,  CO"	1	38.819519	-102.3480835	CHEYENNE WELLS	 CO	Cheyenne Wells	 CO		Bing Maps	city/town
+"Colorado Springs,  CO"	1	38.8334312	-104.8218079	COLORADO SPRINGS	 CO	Colorado Springs	 CO		Bing Maps	city/town
+"Denver,  CO"	1	39.7400093	-104.9923019	DENVER	 CO	Denver	 CO		Bing Maps	city/town
+"Golden,  CO"	1	39.756649	-105.2249527	GOLDEN	 CO	Golden	 CO		Bing Maps	city/town
+"Gunnison,  CO"	1	38.5449791	-106.926918	GUNNISON	 CO	Gunnison	 CO		Bing Maps	city/town
+"Lakewood,  CO"	1	39.7109184	-105.0820694	LAKEWOOD	 CO	Lakewood	 CO		Bing Maps	city/town
+"Lone Tree Park,  CO"	2	37.3992004	-107.3130035	LONE TREE	 CO	Lone Tree Park	 CO		Bing Maps	Plain
+"Louisville,  CO"	1	39.9772911	-105.1321182	LOUISVILLE	 CO	Louisville	 CO		Bing Maps	city/town
+"Parker,  CO"	1	39.5180397	-104.7543564	PARKER	 CO	Parker	 CO		Bing Maps	city/town
+"Westminster,  CO"	1	39.8833122	-105.0619049	WESTMINSTER	 CO	Westminster	 CO		Bing Maps	city/town
+"Avon,  CT"	1	41.8108788	-72.8296509	AVON	 CT	Avon	 CT		Bing Maps	city/town
+"Farmington,  CT"	1	41.7121201	-72.8385696	FARMINGTON	 CT	Farmington	 CT		Bing Maps	city/town
+"New Haven,  CT"	1	41.307621	-72.9246216	NEW HAVEN	 CT	New Haven	 CT		Bing Maps	city/town
+"Shelton,  CT"	1	41.3226013	-73.1091003	SHELTON	 CT	Shelton	 CT		Bing Maps	city/town
+"Trumbull,  CT"	1	41.234951	-73.2196732	TRUMBULL	 CT	Trumbull	 CT		Bing Maps	city/town
+"Washington,  DC"	1	38.8903694	-77.0319595	WASHINGTON	 DC	Washington	 DC		Bing Maps	city/town
+"Dover,  DE"	1	39.1580315	-75.5247269	DOVER	 DE	Dover	 DE		Bing Maps	city/town
+"Lewes,  DE"	1	38.7804298	-75.1307983	LEWES	 DE	Lewes	 DE		Bing Maps	city/town
+"Rehoboth Beach,  DE"	1	38.71558	-75.0817795	REHOBOTH BEACH	 DE	Rehoboth Beach	 DE		Bing Maps	city/town
+"Seaford,  DE"	1	38.6437416	-75.6090469	SEAFORD	 DE	Seaford	 DE		Bing Maps	city/town
+"Aventura,  FL"	1	25.9686108	-80.1446381	AVENTURA	 FL	Aventura	 FL		Bing Maps	city/town
+"Davie,  FL"	1	26.06567	-80.2349472	DAVIE	 FL	Davie	 FL		Bing Maps	city/town
+"Hollywood,  FL"	2	26.0104103	-80.16008	HOLLYWOOD	 FL	Hollywood	 FL		Bing Maps	city/town
+"Jacksonville,  FL"	3	30.3314705	-81.6562195	JACKSONVILLE	 FL	Jacksonville	 FL		Bing Maps	city/town
+"Lake City,  FL"	1	30.1903591	-82.6371231	LAKE CITY	 FL	Lake City	 FL		Bing Maps	city/town
+"Lakeland,  FL"	1	28.0441895	-81.9478607	LAKELAND	 FL	Lakeland	 FL		Bing Maps	city/town
+"Lakeland,  FL"	1	28.0441895	-81.9478607	LAKELAND	 FL	Lakeland	 FL		Bing Maps	city/town
+"Miami,  FL"	1	25.7748108	-80.197731	MIAMI	 FL	Miami	 FL		Bing Maps	city/town
+"Ocala,  FL"	3	29.1875191	-82.1403885	OCALA	 FL	Ocala	 FL		Bing Maps	city/town
+"Pembroke Pines,  FL"	1	26.00811	-80.2801132	PEMBROKE PINES	 FL	Pembroke Pines	 FL		Bing Maps	city/town
+"Pensacola,  FL"	1	30.4208393	-87.2172394	PENSACOLA	 FL	Pensacola	 FL		Bing Maps	city/town
+"Port St Lucie,  FL"	2	27.2741795	-80.3633118	PORT SAINT LUCIE	 FL	Port St Lucie	 FL		Bing Maps	city/town
+"St Petersburg,  FL"	1	27.7711906	-82.6387634	SAINT PETERSBURG	 FL	St Petersburg	 FL		Bing Maps	city/town
+"Trinity,  FL"	1	28.1797791	-82.6812134	TRINITY	 FL	Trinity	 FL		Bing Maps	city/town
+"Augusta,  GA"	1	33.4790916	-81.9753113	AUGUSTA	 GA	Augusta	 GA		Bing Maps	city/town
+"Claxton,  GA"	1	32.1612892	-81.9045105	CLAXTON	 GA	Claxton	 GA		Bing Maps	city/town
+"Fitzgerald,  GA"	1	31.7149696	-83.2522583	FITZGERALD	 GA	Fitzgerald	 GA		Bing Maps	city/town
+"Hinesville,  GA"	1	31.8510494	-81.583847	HINESVILLE	 GA	Hinesville	 GA		Bing Maps	city/town
+"Waynesboro,  GA"	1	33.0897713	-82.0163116	WAYNESBORO	 GA	Waynesboro	 GA		Bing Maps	city/town
+"Hilo,  HI"	1	19.7192402	-155.0818481	HILO	 HI	Hilo	 HI		Bing Maps	city/town
+"Algona,  IA"	1	43.0688705	-94.2274933	ALGONA	 IA	Algona	 IA		Bing Maps	city/town
+"Bloomfield,  IA"	1	40.7501297	-92.4136505	BLOOMFIELD	 IA	Bloomfield	 IA		Bing Maps	city/town
+"Greenfield,  IA"	1	41.3031693	-94.460289	GREENFIELD	 IA	Greenfield	 IA		Bing Maps	city/town
+"Guttenberg,  IA"	1	42.7857285	-91.1017227	GUTTENBERG	 IA	Guttenberg	 IA		Bing Maps	city/town
+"Jefferson,  IA"	1	42.0157509	-94.3774338	JEFFERSON	 IA	Jefferson	 IA		Bing Maps	city/town
+"Marshalltown,  IA"	1	42.0497704	-92.90802	MARSHALLTOWN	 IA	Marshalltown	 IA		Bing Maps	city/town
+"Idaho Falls,  ID"	1	43.4920006	-112.0419922	IDAHO FALLS	 ID	Idaho Falls	 ID		Bing Maps	city/town
+"Rexburg,  ID"	1	43.8260689	-111.7830887	REXBURG	 ID	Rexburg	 ID		Bing Maps	city/town
+"Bourbonnais,  IL"	1	41.1542587	-87.877861	BOURBONNAIS	 IL	Bourbonnais	 IL		Bing Maps	city/town
+"Frankfort,  IL"	1	41.4975586	-87.8616867	FRANKFORT	 IL	Frankfort	 IL		Bing Maps	city/town
+"Harrisburg,  IL"	1	37.7383614	-88.5401611	HARRISBURG	 IL	Harrisburg	 IL		Bing Maps	city/town
+"Kewanee,  IL"	1	41.2472	-89.9248505	KEWANEE	 IL	Kewanee	 IL		Bing Maps	city/town
+"Lombard,  IL"	1	41.8675613	-88.0110779	LOMBARD	 IL	Lombard	 IL		Bing Maps	city/town
+"N McLeansboro St,  Benton"	1	38.0058212	-88.9097137	MC LEANSBORO	 IL	N McLeansboro St	 Benton	 IL 62812		Bing Maps
+"New Lenox,  IL"	1	41.5121117	-87.9688721	NEW LENOX	 IL	New Lenox	 IL		Bing Maps	city/town
+"Peoria,  IL"	2	40.6921387	-89.5877609	PEORIA	 IL	Peoria	 IL		Bing Maps	city/town
+"Sterling,  IL"	1	41.7940407	-89.698822	STERLING	 IL	Sterling	 IL		Bing Maps	city/town
+"Anderson,  IN"	1	40.1021614	-85.678688	ANDERSON	 IN	Anderson	 IN		Bing Maps	city/town
+"Brazil,  IN"	1	39.5251694	-87.1186981	BRAZIL	 IN	Brazil	 IN		Bing Maps	city/town
+"Frankfort,  IN"	1	40.2821312	-86.5107193	FRANKFORT	 IN	Frankfort	 IN		Bing Maps	city/town
+"Lawrenceburg,  IN"	2	39.0924606	-84.8517914	LAWRENCEBURG	 IN	Lawrenceburg	 IN		Bing Maps	city/town
+"Terre Haute,  IN"	1	39.4664917	-87.4132309	TERRE HAUTE	 IN	Terre Haute	 IN		Bing Maps	city/town
+"Warsaw,  IN"	1	41.2385597	-85.8527985	WARSAW	 IN	Warsaw	 IN		Bing Maps	city/town
+"Hoxie,  KS"	1	39.3533211	-100.4419403	HOXIE	 KS	Hoxie	 KS		Bing Maps	city/town
+"Liberal,  KS"	1	37.0323792	-100.925209	LIBERAL	 KS	Liberal	 KS		Bing Maps	city/town
+"Manhattan,  KS"	1	39.1788101	-96.5618362	MANHATTAN	 KS	Manhattan	 KS		Bing Maps	city/town
+"Overland Park,  KS"	2	38.98489	-94.6716766	OVERLAND PARK	 KS	Overland Park	 KS		Bing Maps	city/town
+"Ulysses,  KS"	1	37.5770607	-101.3633575	ULYSSES	 KS	Ulysses	 KS		Bing Maps	city/town
+"Wichita,  KS"	3	37.6869812	-97.3355789	WICHITA	 KS	Wichita	 KS		Bing Maps	city/town
+"Benton,  KY"	1	36.8575096	-88.3507614	BENTON	 KY	Benton	 KY		Bing Maps	city/town
+"Bowling Green,  KY"	2	36.9946213	-86.4455795	BOWLING GREEN	 KY	Bowling Green	 KY		Bing Maps	city/town
+"Frankfort,  KY"	1	38.1950684	-84.8786926	FRANKFORT	 KY	Frankfort	 KY		Bing Maps	city/town
+"Paducah,  KY"	1	37.0857086	-88.5958481	PADUCAH	 KY	Paducah	 KY		Bing Maps	city/town
+"Winchester,  KY"	1	37.9928017	-84.1792297	WINCHESTER	 KY	Winchester	 KY		Bing Maps	city/town
+"Alexandria,  LA"	2	31.3126602	-92.4456787	ALEXANDRIA	 LA	Alexandria	 LA		Bing Maps	city/town
+"Baton Rouge,  LA"	1	30.4433403	-91.1869888	BATON ROUGE	 LA	Baton Rouge	 LA		Bing Maps	city/town
+"Jonesboro,  LA"	1	32.2436295	-92.7116699	JONESBORO	 LA	Jonesboro	 LA		Bing Maps	city/town
+"Lafayette,  LA"	1	30.2203197	-92.0170517	LAFAYETTE	 LA	Lafayette	 LA		Bing Maps	city/town
+"New Iberia,  LA"	1	30.0051308	-91.8175888	NEW IBERIA	 LA	New Iberia	 LA		Bing Maps	city/town
+"Thibodaux,  LA"	1	29.7955208	-90.8225327	THIBODAUX	 LA	Thibodaux	 LA		Bing Maps	city/town
+"Beverly,  MA"	1	42.5477409	-70.8789825	BEVERLY	 MA	Beverly	 MA		Bing Maps	city/town
+"Boston,  MA"	1	42.3586617	-71.0567398	BOSTON	 MA	Boston	 MA		Bing Maps	city/town
+"Great Barrington,  MA"	1	42.1961517	-73.3610916	GREAT BARRINGTON	 MA	Great Barrington	 MA		Bing Maps	city/town
+"Hyannis,  MA"	1	41.654789	-70.2796326	HYANNIS	 MA	Hyannis	 MA		Bing Maps	city/town
+"Marlborough,  MA"	1	42.3468018	-71.5479889	MARLBOROUGH	 MA	Marlborough	 MA		Bing Maps	city/town
+"Salem,  MA"	1	42.5223999	-70.895813	SALEM	 MA	Salem	 MA		Bing Maps	city/town
+"Easton,  MD"	2	38.7738991	-76.0747528	EASTON	 MD	Easton	 MD		Bing Maps	city/town
+"Prince Frederick,  MD"	1	38.5398216	-76.584198	PRINCE FREDERICK	 MD	Prince Frederick	 MD		Bing Maps	city/town
+"Rockville,  MD"	1	39.0816612	-77.1512375	ROCKVILLE	 MD	Rockville	 MD		Bing Maps	city/town
+"Towson,  MD"	1	39.3999405	-76.6053619	TOWSON	 MD	Towson	 MD		Bing Maps	city/town
+"Damariscotta,  ME"	1	44.0321083	-69.5299988	DAMARISCOTTA	 ME	Damariscotta	 ME		Bing Maps	city/town
+"Portland,  ME"	1	43.6591415	-70.2566528	PORTLAND	 ME	Portland	 ME		Bing Maps	city/town
+"Adrian,  MI"	1	41.8972511	-84.0362473	ADRIAN	 MI	Adrian	 MI		Bing Maps	city/town
+"Detroit,  MI"	1	42.3316803	-83.0479965	DETROIT	 MI	Detroit	 MI		Bing Maps	city/town
+"Eaton Rapids,  MI"	2	42.5114288	-84.6558304	EATON RAPIDS	 MI	Eaton Rapids	 MI		Bing Maps	city/town
+"Holland,  MI"	1	42.7730904	-86.1017609	HOLLAND	 MI	Holland	 MI		Bing Maps	city/town
+"Rochester,  MI"	1	42.6834183	-83.1370163	ROCHESTER	 MI	Rochester	 MI		Bing Maps	city/town
+"Saginaw,  MI"	1	43.4191818	-83.9466705	SAGINAW	 MI	Saginaw	 MI		Bing Maps	city/town
+"Troy,  MI"	1	42.5623703	-83.1544876	TROY	 MI	Troy	 MI		Bing Maps	city/town
+"Warren,  MI"	1	42.5111084	-83.0285187	WARREN	 MI	Warren	 MI		Bing Maps	city/town
+"Hendricks,  MN"	1	44.5065689	-96.4243011	HENDRICKS	 MN	Hendricks	 MN		Bing Maps	city/town
+"Morris,  MN"	1	45.5864296	-95.9144516	MORRIS	 MN	Morris	 MN		Bing Maps	city/town
+"Willmar,  MN"	1	45.1218987	-95.0432968	WILLMAR	 MN	Willmar	 MN		Bing Maps	city/town
+"Kansas City,  MO"	1	39.102951	-94.5830765	KANSAS CITY	 MO	Kansas City	 MO		Bing Maps	city/town
+"Maryville,  MO"	1	40.3474503	-94.8729095	MARYVILLE	 MO	Maryville	 MO		Bing Maps	city/town
+"Salem,  MO"	1	37.6367683	-91.5356293	SALEM	 MO	Salem	 MO		Bing Maps	city/town
+"St Louis,  MO"	1	38.6277504	-90.1995621	ST LOUIS	 MO	St Louis	 MO		Bing Maps	city/town
+"Wentzville,  MO"	1	38.8115387	-90.8539505	WENTZVILLE	 MO	Wentzville	 MO		Bing Maps	city/town
+"West Plains,  MO"	1	36.7311211	-91.8530731	WEST PLAINS	 MO	West Plains	 MO		Bing Maps	city/town
+"Clarksdale,  MS"	1	34.1945686	-90.5649185	CLARKSDALE	 MS	Clarksdale	 MS		Bing Maps	city/town
+"Hazlehurst,  MS"	1	31.8597393	-90.3940125	HAZLEHURST	 MS	Hazlehurst	 MS		Bing Maps	city/town
+"Jackson,  MS"	1	32.2986908	-90.1804886	JACKSON	 MS	Jackson	 MS		Bing Maps	city/town
+"Tupelo,  MS"	1	34.2574081	-88.7078323	TUPELO	 MS	Tupelo	 MS		Bing Maps	city/town
+"Cut Bank,  MT"	1	48.4944	-112.2340012	CUT BANK	 MT	Cut Bank	 MT		Bing Maps	Cliff
+"Great Falls,  MT"	1	47.5071411	-111.3060684	GREAT FALLS	 MT	Great Falls	 MT		Bing Maps	city/town
+"Missoula,  MT"	1	46.8727798	-113.9962311	MISSOULA	 MT	Missoula	 MT		Bing Maps	city/town
+"Plains,  MT"	1	47.4598312	-114.8828506	PLAINS	 MT	Plains	 MT		Bing Maps	city/town
+"Asheville,  NC"	1	35.5984612	-82.5531387	ASHEVILLE	 NC	Asheville	 NC		Bing Maps	city/town
+"Camp Lejeune,  NC"	1	34.7257004	-77.3440933	CAMP LEJEUNE	 NC	Camp Lejeune	 NC		Bing Maps	city/town
+"Charlotte,  NC"	2	35.2228584	-80.8379593	CHARLOTTE	 NC	Charlotte	 NC		Bing Maps	city/town
+"Columbus, "	1	34.2654305	-78.6550827	COLUMBUS	 NC	Columbus		Bing Maps	county/district	
+"Durham,  NC"	2	35.9954185	-78.8964386	DURHAM	 NC	Durham	 NC		Bing Maps	city/town
+"Fayetteville,  NC"	2	35.0544891	-78.8775787	FAYETTEVILLE	 NC	Fayetteville	 NC		Bing Maps	city/town
+"Hendersonville,  NC"	1	35.3155708	-82.4586563	HENDERSONVILLE	 NC	Hendersonville	 NC		Bing Maps	city/town
+"Kernersville,  NC"	1	36.1195183	-80.0725098	KERNERSVILLE	 NC	Kernersville	 NC		Bing Maps	city/town
+"Kings Mountain,  NC"	2	35.242691	-81.3457336	KINGS MOUNTAIN	 NC	Kings Mountain	 NC		Bing Maps	city/town
+"Marion,  NC"	1	35.6843109	-82.0083771	MARION	 NC	Marion	 NC		Bing Maps	city/town
+"Mount Airy,  NC"	1	36.4990501	-80.6068802	MOUNT AIRY	 NC	Mount Airy	 NC		Bing Maps	city/town
+"Raeford,  NC"	1	34.9785881	-79.2240295	RAEFORD	 NC	Raeford	 NC		Bing Maps	city/town
+"Raleigh,  NC"	2	35.785511	-78.6426697	RALEIGH	 NC	Raleigh	 NC		Bing Maps	city/town
+"Spruce Pine,  NC"	1	35.9169807	-82.072731	SPRUCE PINE	 NC	Spruce Pine	 NC		Bing Maps	city/town
+"Tarboro,  NC"	1	35.9069519	-77.5407562	TARBORO	 NC	Tarboro	 NC		Bing Maps	city/town
+"Waxhaw,  NC"	1	34.9247589	-80.7431793	WAXHAW	 NC	Waxhaw	 NC		Bing Maps	city/town
+"Wilmington,  NC"	1	34.2349701	-77.9459915	WILMINGTON	 NC	Wilmington	 NC		Bing Maps	city/town
+"Falls City,  NE"	1	40.0587616	-95.6011505	FALLS CITY	 NE	Falls City	 NE		Bing Maps	city/town
+"Franklin,  NE"	1	40.0960808	-98.9542313	FRANKLIN	 NE	Franklin	 NE		Bing Maps	city/town
+"Gordon,  NE"	1	42.8141708	-102.2031708	GORDON	 NE	Gordon	 NE		Bing Maps	city/town
+"Sidney,  NE"	1	41.1448593	-102.9761429	SIDNEY	 NE	Sidney	 NE		Bing Maps	city/town
+"New London,  NH"	1	43.4240913	-72.0034103	NEW LONDON	 NH	New London	 NH		Bing Maps	city/town
+"Portsmouth,  NH"	1	43.0706215	-70.7721176	PORTSMOUTH	 NH	Portsmouth	 NH		Bing Maps	city/town
+"Belleville,  NJ"	1	40.7951508	-74.1493988	BELLEVILLE	 NJ	Belleville	 NJ		Bing Maps	city/town
+"Freehold,  NJ"	2	40.2585297	-74.2765121	FREEHOLD	 NJ	Freehold	 NJ		Bing Maps	city/town
+"Hamilton Township,  NJ"	1	40.2303581	-74.7238617	HAMILTON	 NJ	Hamilton Township	 NJ		Bing Maps	city/town
+"Lakewood,  NJ"	1	40.0932503	-74.2135773	LAKEWOOD	 NJ	Lakewood	 NJ		Bing Maps	city/town
+"Long Branch,  NJ"	1	40.3037605	-73.9933701	LONG BRANCH	 NJ	Long Branch	 NJ		Bing Maps	city/town
+"Morristown,  NJ"	1	40.7930107	-74.4771271	MORRISTOWN	 NJ	Morristown	 NJ		Bing Maps	city/town
+"Mt Holly Township,  NJ"	1	39.9929695	-74.7883987	MOUNT HOLLY	 NJ	Mt Holly Township	 NJ		Bing Maps	city/town
+"Newton,  NJ"	1	41.0585594	-74.7531891	NEWTON	 NJ	Newton	 NJ		Bing Maps	city/town
+"Rahway,  NJ"	2	40.6043396	-74.2743607	RAHWAY	 NJ	Rahway	 NJ		Bing Maps	city/town
+"Somerville,  NJ"	1	40.5707016	-74.6193924	SOMERVILLE	 NJ	Somerville	 NJ		Bing Maps	city/town
+"Toms River,  NJ"	1	39.9528809	-74.1937866	TOMS RIVER	 NJ	Toms River	 NJ		Bing Maps	city/town
+"Voorhees,  NJ"	2	39.8549995	-74.9837723	VOORHEES	 NJ	Voorhees	 NJ		Bing Maps	city/town
+"Los Alamos,  NM"	1	35.8806381	-106.30439	LOS ALAMOS	 NM	Los Alamos	 NM		Bing Maps	city/town
+"Santa Fe,  NM"	1	35.6916809	-105.9379578	SANTA FE	 NM	Santa Fe	 NM		Bing Maps	city/town
+"Shiprock,  NM"	1	36.7853699	-108.6834106	SHIPROCK	 NM	Shiprock	 NM		Bing Maps	city/town
+"Reno,  NV"	1	39.5273819	-119.8134384	RENO	 NV	Reno	 NV		Bing Maps	city/town
+"Albany,  NY"	1	42.6515503	-73.7552109	ALBANY	 NY	Albany	 NY		Bing Maps	city/town
+"Amsterdam,  NY"	1	42.9670105	-74.1922226	AMSTERDAM	 NY	Amsterdam	 NY		Bing Maps	city/town
+"Armonk,  NY"	1	41.1194115	-73.7083817	ARMONK	 NY	Armonk	 NY		Bing Maps	city/town
+"Buffalo,  NY"	2	42.8854408	-78.8784637	BUFFALO	 NY	Buffalo	 NY		Bing Maps	city/town
+"Commack,  NY"	2	40.8471298	-73.2914429	COMMACK	 NY	Commack	 NY		Bing Maps	city/town
+"Forest Hills,  NY"	1	40.7152443	-73.8451767	FOREST HILLS	 NY	Forest Hills	 NY		Bing Maps	Neighborhood
+"Greenlawn,  NY"	1	40.8606987	-73.3644409	GREENLAWN	 NY	Greenlawn	 NY		Bing Maps	city/town
+"Hampton Bays,  NY"	1	40.8729401	-72.5200272	HAMPTON BAYS	 NY	Hampton Bays	 NY		Bing Maps	city/town
+"Long Island City,  NY"	1	40.7623672	-73.9244385	LONG ISLAND CITY	 NY	Long Island City	 NY		Bing Maps	Neighborhood
+"Manorville,  NY"	1	40.872879	-72.8057404	MANORVILLE	 NY	Manorville	 NY		Bing Maps	city/town
+"New York,  NY"	1	40.7820015	-73.8317032	NEW YORK	 NY	New York	 NY		Bing Maps	city/town
+"Nyack,  NY"	2	41.0912704	-73.9181595	NYACK	 NY	Nyack	 NY		Bing Maps	city/town
+"Olean,  NY"	1	42.0979118	-78.3958435	OLEAN	 NY	Olean	 NY		Bing Maps	city/town
+"Queens,  NY"	1	40.7140007	-73.8299866	QUEENS	 NY	Queens	 NY		Bing Maps	city/town
+"Riverhead,  NY"	2	40.9183006	-72.6685104	RIVERHEAD	 NY	Riverhead	 NY		Bing Maps	city/town
+"Rochester,  NY"	1	43.1557999	-77.6163177	ROCHESTER	 NY	Rochester	 NY		Bing Maps	city/town
+"Southampton,  NY"	1	40.8880081	-72.3850708	SOUTHAMPTON	 NY	Southampton	 NY		Bing Maps	city/town
+"Staten Island,  NY"	1	40.6424408	-74.0752792	STATEN ISLAND	 NY	Staten Island	 NY		Bing Maps	city/town
+"Stony Brook,  NY"	1	40.9128304	-73.1399231	STONY BROOK	 NY	Stony Brook	 NY		Bing Maps	city/town
+"Boardman,  OH"	1	41.0243607	-80.6597824	BOARDMAN	 OH	Boardman	 OH		Bing Maps	city/town
+"Cambridge,  OH"	1	40.0247803	-81.5901108	CAMBRIDGE	 OH	Cambridge	 OH		Bing Maps	city/town
+"Columbus,  OH"	1	39.9619904	-83.0027466	COLUMBUS	 OH	Columbus	 OH		Bing Maps	city/town
+"Defiance,  OH"	1	41.2862396	-84.362381	DEFIANCE	 OH	Defiance	 OH		Bing Maps	city/town
+"Fostoria,  OH"	1	41.1556816	-83.4123535	FOSTORIA	 OH	Fostoria	 OH		Bing Maps	city/town
+"Kenton,  OH"	1	40.6478119	-83.6079712	KENTON	 OH	Kenton	 OH		Bing Maps	city/town
+"Maumee,  OH"	2	41.5633507	-83.6541672	MAUMEE	 OH	Maumee	 OH		Bing Maps	city/town
+"Napoleon,  OH"	1	41.3919907	-84.1258392	NAPOLEON	 OH	Napoleon	 OH		Bing Maps	city/town
+"Oregon,  OH"	1	41.6524506	-83.4227905	OREGON	 OH	Oregon	 OH		Bing Maps	city/town
+"Pickerington,  OH"	1	39.8840408	-82.7534332	PICKERINGTON	 OH	Pickerington	 OH		Bing Maps	city/town
+"Springfield,  OH"	2	39.9250183	-83.8067322	SPRINGFIELD	 OH	Springfield	 OH		Bing Maps	city/town
+"Sylvania,  OH"	1	41.7155685	-83.7042465	SYLVANIA	 OH	Sylvania	 OH		Bing Maps	city/town
+"Toledo,  OH"	3	41.6538086	-83.5362625	TOLEDO	 OH	Toledo	 OH		Bing Maps	city/town
+"Troy,  OH"	1	40.0398903	-84.2039032	TROY	 OH	Troy	 OH		Bing Maps	city/town
+"Warren,  OH"	1	41.2361984	-80.8127975	WARREN	 OH	Warren	 OH		Bing Maps	city/town
+"Altus,  OK"	1	34.6378288	-99.3332596	ALTUS	 OK	Altus	 OK		Bing Maps	city/town
+"Edmond,  OK"	1	35.6548996	-97.4781265	EDMOND	 OK	Edmond	 OK		Bing Maps	city/town
+"Moore,  OK"	1	35.3382607	-97.485611	MOORE	 OK	Moore	 OK		Bing Maps	city/town
+"Oklahoma City,  OK"	2	35.4720306	-97.5210724	OKLAHOMA CITY	 OK	Oklahoma City	 OK		Bing Maps	city/town
+"Gresham,  OR"	1	45.506279	-122.4353409	GRESHAM	 OR	Gresham	 OR		Bing Maps	city/town
+"Klamath Falls,  OR"	2	42.2238808	-121.7820587	KLAMATH FALLS	 OR	Klamath Falls	 OR		Bing Maps	city/town
+"Newberg,  OR"	1	45.3003006	-122.9753571	NEWBERG	 OR	Newberg	 OR		Bing Maps	city/town
+"Oregon City,  OR"	1	45.3365097	-122.5927811	OREGON CITY	 OR	Oregon City	 OR		Bing Maps	city/town
+"Portland,  OR"	1	45.5117912	-122.6756287	PORTLAND	 OR	Portland	 OR		Bing Maps	city/town
+"Roseburg,  OR"	2	43.2108803	-123.3432312	ROSEBURG	 OR	Roseburg	 OR		Bing Maps	city/town
+"The Dalles,  OR"	1	45.6015511	-121.1834335	THE DALLES	 OR	The Dalles	 OR		Bing Maps	city/town
+"Annville,  PA"	1	40.3299713	-76.5175095	ANNVILLE	 PA	Annville	 PA		Bing Maps	city/town
+"Beaver, "	1	40.6821518	-80.349411	BEAVER	 PA	Beaver		Bing Maps	county/district	
+"Brookville,  PA"	1	41.1604996	-79.0801773	BROOKVILLE	 PA	Brookville	 PA		Bing Maps	city/town
+"Coatesville,  PA"	1	39.9819412	-75.8206329	COATESVILLE	 PA	Coatesville	 PA		Bing Maps	city/town
+"Erie,  PA"	1	42.1294403	-80.0852432	ERIE	 PA	Erie	 PA		Bing Maps	city/town
+"Greensburg,  PA"	1	40.2992401	-79.5431595	GREENSBURG	 PA	Greensburg	 PA		Bing Maps	city/town
+"Lewistown,  PA"	1	40.5968895	-77.5739365	LEWISTOWN	 PA	Lewistown	 PA		Bing Maps	city/town
+"McKees Rd,  Port Trevorton"	1	40.662958	-76.92579	MC KEES ROCKS	 PA	McKees Rd	 Port Trevorton	 PA 17864		Bing Maps
+"North Huntingdon Township,  PA"	1	40.3298912	-79.730751	NORTH HUNTINGDON	 PA	North Huntingdon Township	 PA		Bing Maps	city/town
+"Philadelphia,  PA"	2	39.9522781	-75.1624527	PHILADELPHIA	 PA	Philadelphia	 PA		Bing Maps	city/town
+"Sewickley,  PA"	1	40.5381088	-80.180191	SEWICKLEY	 PA	Sewickley	 PA		Bing Maps	city/town
+"West Grove,  PA"	2	39.8221588	-75.826683	WEST GROVE	 PA	West Grove	 PA		Bing Maps	city/town
+"Anderson,  SC"	1	34.5004387	-82.6495819	ANDERSON	 SC	Anderson	 SC		Bing Maps	city/town
+"Gaffney,  SC"	2	35.0736198	-81.6486588	GAFFNEY	 SC	Gaffney	 SC		Bing Maps	city/town
+"Moncks Corner,  SC"	1	33.1964912	-80.0126877	MONCKS CORNER	 SC	Moncks Corner	 SC		Bing Maps	city/town
+"Spartanburg,  SC"	1	34.9482498	-81.9348679	SPARTANBURG	 SC	Spartanburg	 SC		Bing Maps	city/town
+"Madison,  SD"	1	44.0072098	-97.1103897	MADISON	 SD	Madison	 SD		Bing Maps	city/town
+"Chattanooga,  TN"	1	35.0464401	-85.3094635	CHATTANOOGA	 TN	Chattanooga	 TN		Bing Maps	city/town
+"Clarksville,  TN"	1	36.5307503	-87.3597717	CLARKSVILLE	 TN	Clarksville	 TN		Bing Maps	city/town
+"Dickson,  TN"	2	36.0764389	-87.387413	DICKSON	 TN	Dickson	 TN		Bing Maps	city/town
+"East Ridge,  TN"	2	34.9967117	-85.2437668	EAST RIDGE	 TN	East Ridge	 TN		Bing Maps	city/town
+"Gallatin,  TN"	1	36.3878212	-86.4462204	GALLATIN	 TN	Gallatin	 TN		Bing Maps	city/town
+"The Hermitage,  TN"	1	36.2151604	-86.6082458	HERMITAGE	 TN	The Hermitage	 TN		Bing Maps	LandmarkBuilding
+"Knoxville,  TN"	1	35.9604912	-83.9209137	KNOXVILLE	 TN	Knoxville	 TN		Bing Maps	city/town
+"McKenzie,  TN"	1	36.1379509	-88.5095139	MC KENZIE	 TN	McKenzie	 TN		Bing Maps	city/town
+"Nashville,  TN"	4	36.1678391	-86.7781601	NASHVILLE	 TN	Nashville	 TN		Bing Maps	city/town
+"Smyrna,  TN"	1	35.974659	-86.5121307	SMYRNA	 TN	Smyrna	 TN		Bing Maps	city/town
+"Alice,  TX"	1	27.7505798	-98.065712	ALICE	 TX	Alice	 TX		Bing Maps	city/town
+"Austin,  TX"	1	30.2675896	-97.7429886	AUSTIN	 TX	Austin	 TX		Bing Maps	city/town
+"Beaumont,  TX"	1	30.0861492	-94.1015778	BEAUMONT	 TX	Beaumont	 TX		Bing Maps	city/town
+"Beeville,  TX"	1	28.4020405	-97.7493591	BEEVILLE	 TX	Beeville	 TX		Bing Maps	city/town
+"Big Lake,  TX"	1	31.1921902	-101.4673004	BIG LAKE	 TX	Big Lake	 TX		Bing Maps	city/town
+"Bryan,  TX"	1	30.6709805	-96.3704224	BRYAN	 TX	Bryan	 TX		Bing Maps	city/town
+"Burleson,  TX"	1	32.5631104	-97.3218231	BURLESON	 TX	Burleson	 TX		Bing Maps	city/town
+"Carrollton,  TX"	1	32.987999	-96.9005737	CARROLLTON	 TX	Carrollton	 TX		Bing Maps	city/town
+"Cleburne,  TX"	1	32.3503914	-97.3876038	CLEBURNE	 TX	Cleburne	 TX		Bing Maps	city/town
+"Corpus Christi,  TX"	1	27.7964096	-97.4035568	CORPUS CHRISTI	 TX	Corpus Christi	 TX		Bing Maps	city/town
+"Cypress,  TX"	1	29.97579	-95.6779175	CYPRESS	 TX	Cypress	 TX		Bing Maps	city/town
+"Dallas,  TX"	1	32.7781487	-96.7954025	DALLAS	 TX	Dallas	 TX		Bing Maps	city/town
+"El Paso,  TX"	3	31.7591591	-106.4874878	EL PASO	 TX	El Paso	 TX		Bing Maps	city/town
+"Fort Worth,  TX"	1	32.7509499	-97.3308563	FORT WORTH	 TX	Fort Worth	 TX		Bing Maps	city/town
+"Granbury,  TX"	1	32.4423485	-97.7942581	GRANBURY	 TX	Granbury	 TX		Bing Maps	city/town
+"Hondo,  TX"	1	29.3475609	-99.1411133	HONDO	 TX	Hondo	 TX		Bing Maps	city/town
+"Houston,  TX"	5	29.7604504	-95.3697815	HOUSTON	 TX	Houston	 TX		Bing Maps	city/town
+"Kaufman, "	1	32.5995598	-96.2878571	KAUFMAN	 TX	Kaufman		Bing Maps	county/district	
+"Kingsville,  TX"	1	27.5157299	-97.8554306	KINGSVILLE	 TX	Kingsville	 TX		Bing Maps	city/town
+"Leander,  TX"	1	30.5791206	-97.8530426	LEANDER	 TX	Leander	 TX		Bing Maps	city/town
+"Lewisville,  TX"	1	33.0472183	-96.9959335	LEWISVILLE	 TX	Lewisville	 TX		Bing Maps	city/town
+"Luling,  TX"	1	29.6804409	-97.6468506	LULING	 TX	Luling	 TX		Bing Maps	city/town
+"McAllen,  TX"	1	26.2074203	-98.2293625	MCALLEN	 TX	McAllen	 TX		Bing Maps	city/town
+"Nacogdoches,  TX"	1	31.6035805	-94.6556168	NACOGDOCHES	 TX	Nacogdoches	 TX		Bing Maps	city/town
+"Nocona,  TX"	1	33.7864685	-97.7274704	NOCONA	 TX	Nocona	 TX		Bing Maps	city/town
+"Pearland,  TX"	1	29.55093	-95.2568665	PEARLAND	 TX	Pearland	 TX		Bing Maps	city/town
+"Plano,  TX"	3	33.0207901	-96.6992493	PLANO	 TX	Plano	 TX		Bing Maps	city/town
+"San Antonio,  TX"	3	29.4245796	-98.4946136	SAN ANTONIO	 TX	San Antonio	 TX		Bing Maps	city/town
+"Spring,  TX"	2	30.0845299	-95.4192886	SPRING	 TX	Spring	 TX		Bing Maps	city/town
+"Texas City,  TX"	1	29.3927593	-94.9250717	TEXAS CITY	 TX	Texas City	 TX		Bing Maps	city/town
+"The Woodlands,  TX"	1	30.1575203	-95.4557724	THE WOODLANDS	 TX	The Woodlands	 TX		Bing Maps	city/town
+"Webster,  TX"	1	29.5333595	-95.1191406	WEBSTER	 TX	Webster	 TX		Bing Maps	city/town
+"Layton,  UT"	1	41.0659294	-111.9610214	LAYTON	 UT	Layton	 UT		Bing Maps	city/town
+"Roosevelt,  UT"	1	40.2967491	-109.9895706	ROOSEVELT	 UT	Roosevelt	 UT		Bing Maps	city/town
+"Salt Lake City,  UT"	1	40.7603111	-111.8882217	SALT LAKE CITY	 UT	Salt Lake City	 UT		Bing Maps	city/town
+"University of Texas at Austin,  TX"	1	30.2786598	-97.731102	TAYLORSVILLE	 UT	University of Texas at Austin	 TX		Bing Maps	HigherEducationFacility
+"Chesterfield, "	1	37.3785019	-77.585907	CHESTERFIELD	 VA	Chesterfield		Bing Maps	county/district	
+"Dulles International Airport,  VA"	1	38.9555893	-77.4493027	DULLES	 VA	Dulles International Airport	 VA		Bing Maps	Airport
+"Fairfax,  VA"	1	38.8417892	-77.3088684	FAIRFAX	 VA	Fairfax	 VA		Bing Maps	city/town
+"Hampton,  VA"	1	37.0277901	-76.3451233	HAMPTON	 VA	Hampton	 VA		Bing Maps	city/town
+"Midlothian,  VA"	1	37.50354	-77.6512604	MIDLOTHIAN	 VA	Midlothian	 VA		Bing Maps	city/town
+"Reston,  VA"	1	38.9596786	-77.354538	RESTON	 VA	Reston	 VA		Bing Maps	city/town
+"Richmond,  VA"	1	37.540699	-77.4336472	RICHMOND	 VA	Richmond	 VA		Bing Maps	city/town
+"Salem,  VA"	2	37.2936516	-80.0531387	SALEM	 VA	Salem	 VA		Bing Maps	city/town
+"Virginia Beach,  VA"	2	36.7550201	-76.0591965	VIRGINIA BEACH	 VA	Virginia Beach	 VA		Bing Maps	city/town
+"Winchester,  VA"	1	39.1839981	-78.1640472	WINCHESTER	 VA	Winchester	 VA		Bing Maps	city/town
+"Woodstock,  VA"	1	38.8902092	-78.4984894	WOODSTOCK	 VA	Woodstock	 VA		Bing Maps	city/town
+"Wytheville,  VA"	1	36.9498405	-81.0835266	WYTHEVILLE	 VA	Wytheville	 VA		Bing Maps	city/town
+"Federal Way,  WA"	1	47.3011284	-122.3298492	FEDERAL WAY	 WA	Federal Way	 WA		Bing Maps	city/town
+"Prosser,  WA"	1	46.2066002	-119.7690277	PROSSER	 WA	Prosser	 WA		Bing Maps	city/town
+"Seattle,  WA"	1	47.603569	-122.3294525	SEATTLE	 WA	Seattle	 WA		Bing Maps	city/town
+"Sunnyside,  WA"	1	46.3237915	-120.0093536	SUNNYSIDE	 WA	Sunnyside	 WA		Bing Maps	city/town
+"Yakima,  WA"	1	46.6041298	-120.5070496	YAKIMA	 WA	Yakima	 WA		Bing Maps	city/town
+"Chilton,  WI"	1	44.0289116	-88.1649399	CHILTON	 WI	Chilton	 WI		Bing Maps	city/town
+"Lancaster,  WI"	1	42.8474998	-90.7096329	LANCASTER	 WI	Lancaster	 WI		Bing Maps	city/town
+"Madison,  WI"	1	43.042469	-89.4039688	MADISON	 WI	Madison	 WI		Bing Maps	city/town
+"Milwaukee,  WI"	1	43.0418091	-87.9068375	MILWAUKEE	 WI	Milwaukee	 WI		Bing Maps	city/town
+"Mukwonago,  WI"	1	42.8588905	-88.3293304	MUKWONAGO	 WI	Mukwonago	 WI		Bing Maps	city/town
+"Racine,  WI"	1	42.7252083	-87.7904129	RACINE	 WI	Racine	 WI		Bing Maps	city/town
+"Waukesha,  WI"	1	43.0145798	-88.2354813	WAUKESHA	 WI	Waukesha	 WI		Bing Maps	city/town
+"West Allis,  WI"	1	43.0166588	-88.0063095	WEST ALLIS	 WI	West Allis	 WI		Bing Maps	city/town
+"White Sulphur Springs,  WV"	1	37.7943497	-80.3001633	WHITE SULPHUR SPRINGS	 WV	White Sulphur Springs	 WV		Bing Maps	city/town

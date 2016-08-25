@@ -1,7 +1,7 @@
 /**
  * @author Starr
  */
-
+//someotherstuff
 /* Map of GeoJSON data from MegaCities.geojson */
 var statesData
 var worldCountries
@@ -287,6 +287,7 @@ function getData(map){
             console.log("clicky")
             updateLegend(map, attribute)
             })
+            console.log("done")
             //createPropSymbols2(response, map, attributes, "cities");
 			
 			console.log(attributes)
@@ -314,7 +315,7 @@ function getWorldData(map){
 
 function getCountryData(map){
     //ajax function to get MegaCities data layer loaded into map
-    $.ajax("data/updatedCountries.GeoJSON", {
+    $.ajax("data/UpdatedCountries.GeoJSON", {
         //datatype specified
         dataType: "json",
         //upon success, call the following function
@@ -543,11 +544,7 @@ function updateLegend(map, attribute) {
         });
         //add legend text
          //svg += '<text id = "' + circle + '-text" x= 185 y="2' + circles[circle] + '"></text>';
-        $('#'+key+'-text').text(Math.round(circleValues[key]*100)/100 + " Installations").attr({
-            x: 65 + circleValues['max'], 
-            y: 134 - (2 * circleValues[key])
-
-        });
+        $('#'+key+'-text').text(Math.round(circleValues[key]*100)/100 + " Installations");
     };
 
         // for (var key in circleValues){
