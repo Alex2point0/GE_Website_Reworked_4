@@ -27,7 +27,7 @@ console.log(geoJsonLayers)
 
 
 //add OSM base tilelayer
-    L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png', {
+    L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
     	//set attribute info (source)
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>'
         //and add it to map
@@ -431,7 +431,7 @@ function createLegend(map, attributes, text){
             $(container).append('<div id = "temporal-legend">');
 
             //create attribute legend storage 
-            var svg = '<svg id = "attribute-legend" width = "5000px" height = "300px">';
+            var svg = '<svg id = "attribute-legend" width = "5000px" height = "270px">';
 
             //create an circle names for loop
             var circles = {
@@ -449,7 +449,7 @@ function createLegend(map, attributes, text){
                 svg += '<circle class="legend-circle" id="' + circle + '" fill="#F47821" fill-opacity="0" stroke="#FFF" cx="85"/>';
 
                 //set text here
-                svg += '<text id = "' + circle + '-text" x= 115 y="2' + circles[circle] + '"></text>';
+                svg += '<text id = "' + circle + '-text" x= 115 y="0' + circles[circle] + '"></text>';
                 console.log(circles[circle]);
                 console.log(text)
             };
@@ -477,7 +477,7 @@ function createLegend(map, attributes, text){
 
         //assign the cy and r attributes (calculates circle footprint)
         $('#'+key).attr({
-            cy: 200-radius,
+            cy: 60-radius,
             r: radius
         });
         //add legend text
@@ -539,7 +539,7 @@ function updateLegend(map, attribute) {
         '-text" x= 185 y="2'
         //assign the cy and r attributes (calculates circle footprint)
         $('#'+key).attr({
-            cy: 200-radius,
+            cy: 60-radius,
             r: radius
         });
         //add legend text
@@ -558,3 +558,42 @@ function updateLegend(map, attribute) {
         //         console.log(text)
         //     };
 };
+
+function updateLegendCountries(map, attribute) {
+    // //get years by splitting attribute junk "_"
+    // var year = attribute.split("_")[1];
+    // //Create temoral content
+    // var content = "Homicides in " + year;
+
+    // //update legend content
+    // $('#temporal-legend').html(content);
+
+    //get the min, max, and mean values as an object
+    var circleValues = getCircleValues(map, attribute);
+
+    for (var key in circleValues) {
+        //get the radius
+        var radius = calcPropRadius(circleValues[key]);
+        '-text" x= 185 y="2'
+        //assign the cy and r attributes (calculates circle footprint)
+        $('#'+key).attr({
+            cy: 60-radius,
+            r: radius
+        });
+        //add legend text
+         //svg += '<text id = "' + circle + '-text" x= 185 y="2' + circles[circle] + '"></text>';
+        $('#'+key+'-text').text(Math.round(circleValues[key]*100)/100 + " Installations");
+    };
+
+        // for (var key in circleValues){
+        //         var text = 185
+        //         //set styling
+        //         svg +='<circle class = "legend-circle" id = "' + circle + '" fill = "#ff1919" fill-opacity = "0.75" stroke = "#165056" cx ="80" cy ="20"/>';
+
+        //         //set text here
+        //         svg += '<text id = "' + circle + '-text" x= 180 y="2' + circles[circle] + '"></text>';
+        //         console.log(circles[circle]);
+        //         console.log(text)
+        //     };
+};
+
