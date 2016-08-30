@@ -3,7 +3,10 @@
  */
 //someotherstuff
 /* Map of GeoJSON data from MegaCities.geojson */
+var transparency 
 var statesData
+var legendControl
+console.log(legendControl)
 var worldCountries
 var GE_Countries = L.geoJson(GE_Countries)
 var GE_Cities = L.geoJson(GE_Cities)
@@ -52,12 +55,23 @@ console.log(geoJsonLayers)
 
 map.on('zoomend', function () {
     console.log("level")
+    //console.log(transparency)
     zoomLevel = map.getZoom()
     console.log(zoomLevel)
-    return zoomLevel
-    if (map.getZoom() <7) {
-        map.removeLayer(GE_Cities);
+     if (zoomLevel == 2) {
+        transparency = .5
+        console.log("point 5");
+    } else if (zoomLevel == 3) {
+        transparency = .7
+        console.log(transparency)
+    } else if (zoomLevel == 4) {
+        transparency = .9
+    } else if (zoomLevel >4) {
+        transparency = 1
+        console.log(transparency)
     }
+    return zoomLevel
+   
 }); 
 
 //calculate the radius of each proportional symbol
@@ -93,8 +107,17 @@ function pointToLayer(feature, latlng, attributes, transparency){
 
     attribute = attributes[1];
     //console.log(attribute)
-	
+	// var zoom = map.getZoom()
+ //    console.log(zoom)
+ //    if (zoom == 2) {
+ //        transparency = .2
+ //        console.log(transparency)
+ //    } else if (zoom == 3) {
+ //        transparency = .9
+ //        console.log(transparency)
+ //    }
 
+    //transparency = .6
   	//console.log(attributes)
     //create marker style
     var options = {
@@ -275,7 +298,7 @@ function getData(map){
 		success: function(response){
             attributes = processData(response); 
 			 //call function to create proportional symbols
-            var transparency = .02
+            //var transparency = .02
             createPropSymbols(response, map, attributes, "cities", transparency);
             console.log(transparency)
             createLegend(map, attributes)
@@ -367,7 +390,7 @@ function selectValues(map, attribute) {
         //     updatePropSymbols(map, attributes[index], rawAttributes[index]);
         // };
        
-     map.setView(new L.LatLng(41.4, -0), 2)
+     map.setView(new L.LatLng(41.4, -89), 4)
 
      console.log("this is a test")
      if (map.hasLayer(geoJsonLayers.countries)){
@@ -483,6 +506,7 @@ function createLegend(map, attributes, text){
         //add legend text
         $('#'+key+'-text').text(Math.round(circleValues[key]*100)/100 + " Installations");
 };
+
 };
 
 //get circle values in this function to pass to legend
